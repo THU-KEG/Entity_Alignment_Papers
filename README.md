@@ -33,6 +33,11 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. : **"Entity Alignment between Knowledge Graphs Using Attribute Embeddings".**
 *Bayu D. Trsedya, Jianzhong Qi, Rui Zhang.* (AAAI 2019) \[[paper](http://www.ruizhang.info/publications/AAAI2019-Entity%20Alignment%20between%20Knowledge%20Graphs%20Using%20Attribute%20Embeddings.pdf)\]\[[code](https://bitbucket.org/bayudt/kba/src)\]
 
+1. **SEA**: **"Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference"**
+*Shichao Pei, Lu Yu, Robert Hoehndorf, Xiangliang Zhang.* (WWW 2019) \[paper\]\[code\]
+
+
+
 
 
 ## Preprints
