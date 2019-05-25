@@ -34,18 +34,16 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Bayu D. Trsedya, Jianzhong Qi, Rui Zhang.* (AAAI 2019) \[[paper](http://www.ruizhang.info/publications/AAAI2019-Entity%20Alignment%20between%20Knowledge%20Graphs%20Using%20Attribute%20Embeddings.pdf)\]\[[code](https://bitbucket.org/bayudt/kba/src)\]
 
 1. **SEA**: **"Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference"**
-*Shichao Pei, Lu Yu, Robert Hoehndorf, Xiangliang Zhang.* (WWW 2019) \[[paper](http://delivery.acm.org/10.1145/3320000/3313646/p3130-pei.pdf?ip=166.111.68.66&id=3313646&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1558684700_f1e729e80f1db4e3673d50c3cb38978d)\]\[code\]
+*Shichao Pei, Lu Yu, Robert Hoehndorf, Xiangliang Zhang.* (WWW 2019) \[[paper](https://dl.acm.org/citation.cfm?id=3313646)\]\[code\]
 
-
+1. **RSN4EA**: **"Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs".**
+*Lingbing Guo, Zequn Sun, Wei Hu.* (ICML 2019) \[[paper](https://arxiv.org/pdf/1905.04914.pdf)\]\[[code](https://github.com/nju-websoft/RSN)\]
 
 
 
 ## Preprints
 
 This section contains promising recent preprints.
-
-1. **RSN4EA**: **"Recurrent Skipping Networks for Entity Alignment".**
-*Lingbing Guo, Zequn Sun, Ermei Cao, Wei Hu.* (arXiv:1811.02318 2018) \[[paper](https://arxiv.org/pdf/1811.02318.pdf)\]\[code\]
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
 *Meng Qu, Jian Tang, Yoshua Bengio.* (OpenReview 2019) \[[paper](https://openreview.net/pdf?id=S14h9sCqYm)\]\[code\]
