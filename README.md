@@ -39,6 +39,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **RSN4EA**: **"Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs".**
 *Lingbing Guo, Zequn Sun, Wei Hu.* (ICML 2019) \[[paper](https://arxiv.org/pdf/1905.04914.pdf)\]\[[code](https://github.com/nju-websoft/RSN)\]
 
+1. **GMNN**: **"Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network".**
+*Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu.* (ACL 2019) \[[paper](https://arxiv.org/pdf/1905.11605.pdf)\]\[[code](https://github.com/syxu828/Crosslingula-KG-Matching)\]
 
 
 ## Preprints
