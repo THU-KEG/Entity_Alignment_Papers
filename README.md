@@ -33,11 +33,17 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. : **"Entity Alignment between Knowledge Graphs Using Attribute Embeddings".**
 *Bayu D. Trsedya, Jianzhong Qi, Rui Zhang.* (AAAI 2019) \[[paper](http://www.ruizhang.info/publications/AAAI2019-Entity%20Alignment%20between%20Knowledge%20Graphs%20Using%20Attribute%20Embeddings.pdf)\]\[[code](https://bitbucket.org/bayudt/kba/src)\]
 
-1. **SEA**: **"Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference"**
+1. **SEA**: **"Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference".**
 *Shichao Pei, Lu Yu, Robert Hoehndorf, Xiangliang Zhang.* (WWW 2019) \[[paper](https://dl.acm.org/citation.cfm?id=3313646)\]\[code\]
 
 1. **RSN4EA**: **"Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs".**
 *Lingbing Guo, Zequn Sun, Wei Hu.* (ICML 2019) \[[paper](https://arxiv.org/pdf/1905.04914.pdf)\]\[[code](https://github.com/nju-websoft/RSN)\]
+
+1. ****: **"Multi-view Knowledge Graph Embedding for Entity Alignment".**
+** (IJCAI 2019) \[paper\]\[code\]
+
+1. **RDGCN**: **"Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs".**
+*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao.* (IJCAI 2019) \[paper\]\[code\]
 
 1. **GMNN**: **"Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network".**
 *Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu.* (ACL 2019) \[[paper](https://arxiv.org/pdf/1905.11605.pdf)\]\[[code](https://github.com/syxu828/Crosslingula-KG-Matching)\]
