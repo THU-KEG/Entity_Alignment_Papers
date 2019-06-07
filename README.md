@@ -39,8 +39,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **RSN4EA**: **"Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs".**
 *Lingbing Guo, Zequn Sun, Wei Hu.* (ICML 2019) \[[paper](https://arxiv.org/pdf/1905.04914.pdf)\]\[[code](https://github.com/nju-websoft/RSN)\]
 
-1. ****: **"Multi-view Knowledge Graph Embedding for Entity Alignment".**
-** (IJCAI 2019) \[paper\]\[code\]
+1. **MultiKE**: **"Multi-view Knowledge Graph Embedding for Entity Alignment".**
+*Qingheng Zhang, Zequn Sun, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu.* (IJCAI 2019) \[[paper](https://arxiv.org/pdf/1906.02390.pdf)\]\[[code](https://github.com/nju-websoft/MultiKE)\]
 
 1. **RDGCN**: **"Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs".**
 *Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao.* (IJCAI 2019) \[paper\]\[code\]
