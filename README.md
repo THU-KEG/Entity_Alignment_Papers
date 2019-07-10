@@ -54,7 +54,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 This section contains promising recent preprints.
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
-*Meng Qu, Jian Tang, Yoshua Bengio.* (OpenReview 2019) \[[paper](https://openreview.net/pdf?id=S14h9sCqYm)\]\[code\]
+*Meng Qu, Jian Tang, Yoshua Bengio.* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
 
 
 
