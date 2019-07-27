@@ -48,6 +48,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **GMNN**: **"Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network".**
 *Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu.* (ACL 2019) \[[paper](https://arxiv.org/pdf/1905.11605.pdf)\]\[[code](https://github.com/syxu828/Crosslingula-KG-Matching)\]
 
+1. **MuGNN**: **"Multi-Channel Graph Neural Network for Entity Alignment".**
+*Yixin Cao, Zhiyuan Liu, Chengjiang Li, Zhiyuan Liu, Juanzi Li, Tat-Seng Chua.* (ACL 2019) \[[paper](https://www.aclweb.org/anthology/P19-1140)\]\[[code](https://github.com/thunlp/MuGNN)\]
 
 ## Preprints
 
