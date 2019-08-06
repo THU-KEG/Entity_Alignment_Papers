@@ -39,17 +39,20 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **RSN4EA**: **"Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs".**
 *Lingbing Guo, Zequn Sun, Wei Hu.* (ICML 2019) \[[paper](https://arxiv.org/pdf/1905.04914.pdf)\]\[[code](https://github.com/nju-websoft/RSN)\]
 
-1. **MultiKE**: **"Multi-view Knowledge Graph Embedding for Entity Alignment".**
-*Qingheng Zhang, Zequn Sun, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu.* (IJCAI 2019) \[[paper](https://arxiv.org/pdf/1906.02390.pdf)\]\[[code](https://github.com/nju-websoft/MultiKE)\]
-
-1. **RDGCN**: **"Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs".**
-*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao.* (IJCAI 2019) \[paper\]\[code\]
-
 1. **GMNN**: **"Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network".**
 *Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu.* (ACL 2019) \[[paper](https://arxiv.org/pdf/1905.11605.pdf)\]\[[code](https://github.com/syxu828/Crosslingula-KG-Matching)\]
 
 1. **MuGNN**: **"Multi-Channel Graph Neural Network for Entity Alignment".**
 *Yixin Cao, Zhiyuan Liu, Chengjiang Li, Zhiyuan Liu, Juanzi Li, Tat-Seng Chua.* (ACL 2019) \[[paper](https://www.aclweb.org/anthology/P19-1140)\]\[[code](https://github.com/thunlp/MuGNN)\]
+
+1. **MultiKE**: **"Multi-view Knowledge Graph Embedding for Entity Alignment".**
+*Qingheng Zhang, Zequn Sun, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0754.pdf)\]\[[code](https://github.com/nju-websoft/MultiKE)\]
+
+1. **RDGCN**: **"Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs".**
+*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0733.pdf)\]\[code\]
+
+1. **OTEA**: **"Improving Cross-lingual Entity Alignment via Optimal Transport".**
+*Shichao Pei, Lu Yu, Xiangliang Zhang.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0448.pdf)\]\[code\]
 
 ## Preprints
 
