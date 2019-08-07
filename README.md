@@ -54,6 +54,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **OTEA**: **"Improving Cross-lingual Entity Alignment via Optimal Transport".**
 *Shichao Pei, Lu Yu, Xiangliang Zhang.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0448.pdf)\]\[code\]
 
+1. **NAEA**: **"Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs".**
+*Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0269.pdf)\]\[code\]
+
 ## Preprints
 
 This section contains promising recent preprints.
