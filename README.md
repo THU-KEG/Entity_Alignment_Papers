@@ -57,7 +57,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **NAEA**: **"Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs".**
 *Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0269.pdf)\]\[code\]
 
-1. ****: **"A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment".**
+1. **AVR-GCN**: **"A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment".**
 *Rui Ye, Xin Li, Yujie Fang, Hongyu Zang, Mingzhong Wang* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019//0574.pdf)\]\[code\]
 
 ## Preprints
