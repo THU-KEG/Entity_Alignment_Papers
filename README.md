@@ -49,7 +49,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Qingheng Zhang, Zequn Sun, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0754.pdf)\]\[[code](https://github.com/nju-websoft/MultiKE)\]
 
 1. **RDGCN**: **"Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs".**
-*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0733.pdf)\]\[code\]
+*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0733.pdf)\]\[[code](https://github.com/StephanieWyt/RDGCN)\]
 
 1. **OTEA**: **"Improving Cross-lingual Entity Alignment via Optimal Transport".**
 *Shichao Pei, Lu Yu, Xiangliang Zhang.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0448.pdf)\]\[code\]
