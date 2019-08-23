@@ -1,6 +1,6 @@
 # Entity Alignment Papers
 
-This is a repo listing some must-read papers on Entity Alignment published in recent years. Contributed by [Chengjiang Li](https://github.com/iamlockelightning).
+This is a repo listing some must-read papers on Entity Alignment published in recent years, contributed by [Chengjiang Li](https://github.com/iamlockelightning) and [Zequn Sun](https://github.com/sunzequn).
 
 
 
@@ -56,6 +56,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 
 1. **NAEA**: **"Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs".**
 *Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0269.pdf)\]\[code\]
+
+1. **AVR-GCN**: **"A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment".**
+*Rui Ye, Xin Li, Yujie Fang, Hongyu Zang, Mingzhong Wang* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019//0574.pdf)\]\[code\]
 
 ## Preprints
 
