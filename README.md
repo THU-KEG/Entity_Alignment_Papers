@@ -69,6 +69,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. : **"Modeling Multi-mapping relations for Precise Cross-lingual Entity Alignment".**
 *Xiaofei Shi, Yanghua Xiao* (EMNLP 2019) \[paper\]\[code\]
 
+1. **HMAN**: **"Aligning Cross-lingual Entities with Multi-Aspect Information".**
+*Hsiu-Wei Yang, Yanyan Zou, Peng Shi, Wei Lu, Jimmy Lin, Xu Sun* (EMNLP 2019) \[[paper](https://cs.uwaterloo.ca/~jimmylin/publications/YangHW_etal_EMNLP2019.pdf)\]\[[code](https://github.com/h324yang/HMAN)\]
 
 
 ## Preprints
