@@ -63,8 +63,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **KECG**: **"Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model".**
 *Chengjiang Li, Yixin Cao, Lei Hou, Jiaxin Shi, Juanzi Li, Tat-Seng Chua* (EMNLP 2019) \[paper\]\[[code](https://github.com/THU-KEG/KECG)\]
 
-1. : **"Jointly Learning Entity and Relation Representations for Entity Alignment".**
-*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (EMNLP 2019) \[paper\]\[[code](https://github.com/StephanieWyt/HGCN-JE-JR)\]
+1. **HGCN**: **"Jointly Learning Entity and Relation Representations for Entity Alignment".**
+*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (EMNLP 2019) \[[paper](https://arxiv.org/pdf/1909.09317.pdf)\]\[[code](https://github.com/StephanieWyt/HGCN-JE-JR)\]
 
 1. : **"Modeling Multi-mapping relations for Precise Cross-lingual Entity Alignment".**
 *Xiaofei Shi, Yanghua Xiao* (EMNLP 2019) \[paper\]\[code\]
