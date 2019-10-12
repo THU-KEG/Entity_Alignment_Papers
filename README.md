@@ -72,6 +72,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **HMAN**: **"Aligning Cross-lingual Entities with Multi-Aspect Information".**
 *Hsiu-Wei Yang, Yanyan Zou, Peng Shi, Wei Lu, Jimmy Lin, Xu Sun* (EMNLP 2019) \[[paper](https://cs.uwaterloo.ca/~jimmylin/publications/YangHW_etal_EMNLP2019.pdf)\]\[[code](https://github.com/h324yang/HMAN)\]
 
+1. **AKE**: **"Guiding Cross-lingual Entity Alignment via Adversarial Knowledge Embedding".**
+*Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang* (ICDM 2019) \[[paper](http://ddl.escience.cn/ff/endH)\]\[code\]
 
 ## Preprints
 
