@@ -60,6 +60,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **AVR-GCN**: **"A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment".**
 *Rui Ye, Xin Li, Yujie Fang, Hongyu Zang, Mingzhong Wang* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019//0574.pdf)\]\[code\]
 
+1. **TransEdge**: **"TransEdge: Translating Relation-Contextualized Embeddings for Knowledge Graphs".**
+*Zequn Sun, Jiacheng Huang, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu.* (ISWC 2019) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-30793-6_35)\]\[[code](https://github.com/nju-websoft/TransEdge)\]
+
 1. **KECG**: **"Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model".**
 *Chengjiang Li, Yixin Cao, Lei Hou, Jiaxin Shi, Juanzi Li, Tat-Seng Chua* (EMNLP 2019) \[paper\]\[[code](https://github.com/THU-KEG/KECG)\]
 
