@@ -78,6 +78,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **AKE**: **"Guiding Cross-lingual Entity Alignment via Adversarial Knowledge Embedding".**
 *Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang* (ICDM 2019) \[[paper](http://ddl.escience.cn/ff/endH)\]\[code\]
 
+1. **AliNet**: **"Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation".**
+*Zequn Sun, Chengming Wang, Wei Hu, Muhao Chen, Jian Dai, Wei Zhang, Yuzhong Qu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/1911.08936.pdf)\]\[[code](https://github.com/nju-websoft/AliNet)\]
+
 ## Preprints
 
 This section contains promising recent preprints.
