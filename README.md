@@ -64,13 +64,13 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Zequn Sun, Jiacheng Huang, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu.* (ISWC 2019) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-30793-6_35)\]\[[code](https://github.com/nju-websoft/TransEdge)\]
 
 1. **KECG**: **"Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model".**
-*Chengjiang Li, Yixin Cao, Lei Hou, Jiaxin Shi, Juanzi Li, Tat-Seng Chua* (EMNLP 2019) \[paper\]\[[code](https://github.com/THU-KEG/KECG)\]
+*Chengjiang Li, Yixin Cao, Lei Hou, Jiaxin Shi, Juanzi Li, Tat-Seng Chua* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1274.pdf)\]\[[code](https://github.com/THU-KEG/KECG)\]
 
 1. **HGCN**: **"Jointly Learning Entity and Relation Representations for Entity Alignment".**
-*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (EMNLP 2019) \[[paper](https://arxiv.org/pdf/1909.09317.pdf)\]\[[code](https://github.com/StephanieWyt/HGCN-JE-JR)\]
+*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1023.pdf)\]\[[code](https://github.com/StephanieWyt/HGCN-JE-JR)\]
 
 1. : **"Modeling Multi-mapping relations for Precise Cross-lingual Entity Alignment".**
-*Xiaofei Shi, Yanghua Xiao* (EMNLP 2019) \[paper\]\[code\]
+*Xiaofei Shi, Yanghua Xiao* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1075.pdf)\]\[code\]
 
 1. **HMAN**: **"Aligning Cross-lingual Entities with Multi-Aspect Information".**
 *Hsiu-Wei Yang, Yanyan Zou, Peng Shi, Wei Lu, Jimmy Lin, Xu Sun* (EMNLP 2019) \[[paper](https://cs.uwaterloo.ca/~jimmylin/publications/YangHW_etal_EMNLP2019.pdf)\]\[[code](https://github.com/h324yang/HMAN)\]
