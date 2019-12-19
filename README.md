@@ -81,12 +81,17 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **AliNet**: **"Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation".**
 *Zequn Sun, Chengming Wang, Wei Hu, Muhao Chen, Jian Dai, Wei Zhang, Yuzhong Qu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/1911.08936.pdf)\]\[[code](https://github.com/nju-websoft/AliNet)\]
 
+
+
 ## Preprints
 
 This section contains promising recent preprints.
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
-*Meng Qu, Jian Tang, Yoshua Bengio.* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
+*Meng Qu, Jian Tang, Yoshua Bengio* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
+
+1. **RAKA**: **"RAKA:Co-training of Relationships and Attributes for Cross-lingual Knowledge Alignment".**
+*Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[code\]
 
 
 
