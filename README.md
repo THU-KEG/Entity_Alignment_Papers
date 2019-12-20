@@ -78,6 +78,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **AKE**: **"Guiding Cross-lingual Entity Alignment via Adversarial Knowledge Embedding".**
 *Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang* (ICDM 2019) \[[paper](http://ddl.escience.cn/ff/endH)\]\[code\]
 
+1. **MRAEA**: **"MRAEA: An Efficient and Robust Cross-lingual Entity Alignment Approach via Meta Relation Aware Representation".**
+*Xin Mao, Wenting Wang, Huimin Xu, Man Lan, Yuanbin Wu.* (WSDM 2020) \[paper\]\[code\]
+
 1. **AliNet**: **"Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation".**
 *Zequn Sun, Chengming Wang, Wei Hu, Muhao Chen, Jian Dai, Wei Zhang, Yuzhong Qu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/1911.08936.pdf)\]\[[code](https://github.com/nju-websoft/AliNet)\]
 
@@ -87,6 +90,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **CEAFF**: **"Collective Embedding-based Entity Alignment via Adaptive Features".**
 *Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin.* (ICDE 2020) \[[paper](https://arxiv.org/pdf/1912.08404.pdf)\]\[code\]
 
+1. : **"Deep Graph Matching Consensus ".**
+*Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.* (ICLR 2020) \[[paper](https://openreview.net/pdf?id=HyeJf1HKvS)\]\[code\]
 
 ## Preprints
 
