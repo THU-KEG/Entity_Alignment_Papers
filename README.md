@@ -87,6 +87,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. : **"Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment".**
 *Kun Xu, Linfeng Song, Yansong Feng, Yan Song, Dong Yu.* (AAAI 2020) \[paper\]\[code\]
 
+1. **COTSAE**: **"COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment".**
+*Kai Yang, Shaoqin Liu, Junfeng Zhao, Yasha Wang, Bing Xie.* (AAAI 2020) \[paper\]\[[code](https://github.com/ykpku/COTSA)\]
+
 1. **CEAFF**: **"Collective Embedding-based Entity Alignment via Adaptive Features".**
 *Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin.* (ICDE 2020) \[[paper](https://arxiv.org/pdf/1912.08404.pdf)\]\[code\]
 
