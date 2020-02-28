@@ -79,7 +79,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang* (ICDM 2019) \[[paper](http://ddl.escience.cn/ff/endH)\]\[code\]
 
 1. **MRAEA**: **"MRAEA: An Efficient and Robust Cross-lingual Entity Alignment Approach via Meta Relation Aware Representation".**
-*Xin Mao, Wenting Wang, Huimin Xu, Man Lan, Yuanbin Wu.* (WSDM 2020) \[paper\]\[code\]
+*Xin Mao, Wenting Wang, Huimin Xu, Man Lan, Yuanbin Wu.* (WSDM 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371804)\]\[code\]
 
 1. **AliNet**: **"Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation".**
 *Zequn Sun, Chengming Wang, Wei Hu, Muhao Chen, Jian Dai, Wei Zhang, Yuzhong Qu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/1911.08936.pdf)\]\[[code](https://github.com/nju-websoft/AliNet)\]
@@ -88,13 +88,16 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Kun Xu, Linfeng Song, Yansong Feng, Yan Song, Dong Yu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/2001.08728.pdf)\]\[code\]
 
 1. **COTSAE**: **"COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment".**
-*Kai Yang, Shaoqin Liu, Junfeng Zhao, Yasha Wang, Bing Xie.* (AAAI 2020) \[paper\]\[[code](https://github.com/ykpku/COTSA)\]
+*Kai Yang, Shaoqin Liu, Junfeng Zhao, Yasha Wang, Bing Xie.* (AAAI 2020) \[[paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-YangK.8586.pdf)\]\[[code](https://github.com/ykpku/COTSA)\]
 
 1. **CEAFF**: **"Collective Embedding-based Entity Alignment via Adaptive Features".**
 *Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin.* (ICDE 2020) \[[paper](https://arxiv.org/pdf/1912.08404.pdf)\]\[code\]
 
-1. : **"Deep Graph Matching Consensus ".**
+1. : **"Deep Graph Matching Consensus".**
 *Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.* (ICLR 2020) \[[paper](https://openreview.net/pdf?id=HyeJf1HKvS)\]\[code\]
+
+1. **CG-MuAlign**: **"Collective Multi-type Entity Alignment Between Knowledge Graphs".**
+*Qi Zhu, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han.* (WWW 2020) \[[paper](https://assets.amazon.science/ff/7a/b96282984a0fbe5e31a8fcf68d17/scipub-1202.pdf)\]\[code\]
 
 ## Preprints
 
