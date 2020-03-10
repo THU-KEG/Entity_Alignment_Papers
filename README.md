@@ -110,9 +110,8 @@ This section contains promising recent preprints.
 1. **RAKA**: **"RAKA:Co-training of Relationships and Attributes for Cross-lingual Knowledge Alignment".**
 *Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[code\]
 
-
-## Useful links
-1. [OpenEA](https://github.com/nju-websoft/OpenEA): A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs 
+1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
+*Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (Preprint 2020) \[[paper](https://github.com/nju-websoft/OpenEA/blob/master/docs/OpenEA_preprint.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
 
 
 ## Comments
