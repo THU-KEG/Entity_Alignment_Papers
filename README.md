@@ -76,7 +76,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Hsiu-Wei Yang, Yanyan Zou, Peng Shi, Wei Lu, Jimmy Lin, Xu Sun* (EMNLP 2019) \[[paper](https://cs.uwaterloo.ca/~jimmylin/publications/YangHW_etal_EMNLP2019.pdf)\]\[[code](https://github.com/h324yang/HMAN)\]
 
 1. **AKE**: **"Guiding Cross-lingual Entity Alignment via Adversarial Knowledge Embedding".**
-*Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang* (ICDM 2019) \[[paper](http://ddl.escience.cn/ff/endH)\]\[code\]
+*Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang* (ICDM 2019) \[[paper](https://ieeexplore.ieee.org/document/8970718/)\]\[[code](https://github.com/IIEdm/AKE)\]
 
 1. **MRAEA**: **"MRAEA: An Efficient and Robust Cross-lingual Entity Alignment Approach via Meta Relation Aware Representation".**
 *Xin Mao, Wenting Wang, Huimin Xu, Man Lan, Yuanbin Wu.* (WSDM 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371804)\]\[code\]
