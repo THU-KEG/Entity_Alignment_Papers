@@ -99,6 +99,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **CG-MuAlign**: **"Collective Multi-type Entity Alignment Between Knowledge Graphs".**
 *Qi Zhu, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han.* (WWW 2020) \[[paper](https://assets.amazon.science/ff/7a/b96282984a0fbe5e31a8fcf68d17/scipub-1202.pdf)\]\[code\]
 
+1. **JarKA**: **"JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment".**
+*Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li* (PAKDD 2020) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[[code](https://github.com/BoChen-Daniel/PAKDD-20-JarKA)\]
+
 
 ## Preprints
 
@@ -106,9 +109,6 @@ This section contains promising recent preprints.
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
 *Meng Qu, Jian Tang, Yoshua Bengio* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
-
-1. **RAKA**: **"RAKA:Co-training of Relationships and Attributes for Cross-lingual Knowledge Alignment".**
-*Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[code\]
 
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
 *Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (Preprint 2020) \[[paper](https://github.com/nju-websoft/OpenEA/blob/master/docs/OpenEA_preprint.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
