@@ -111,7 +111,7 @@ This section contains promising recent preprints.
 *Meng Qu, Jian Tang, Yoshua Bengio* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
 
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
-*Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (Preprint 2020) \[[paper](https://github.com/nju-websoft/OpenEA/blob/master/docs/OpenEA_preprint.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
+*Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (Preprint 2020) \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
 
 
 ## Comments
