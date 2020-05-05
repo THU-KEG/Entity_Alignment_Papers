@@ -113,6 +113,9 @@ This section contains promising recent preprints.
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
 *Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (Preprint 2020) \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
 
+1. **"Active Learning for Entity Alignment".**
+*Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (Preprint 2020) \[[paper](https://arxiv.org/abs/2001.08943)\]
+
 
 ## Comments
 
