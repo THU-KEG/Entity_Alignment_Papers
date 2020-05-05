@@ -16,7 +16,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Zequn Sun, Wei Hu, Chengkai Li.* (ISWC 2017) \[[paper](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/188.pdf)\]\[[code](https://github.com/nju-websoft/JAPE)\]
 
 1. **IPTransE**: **"Iterative Entity Alignment via Joint Knowledge Embeddings".**
-*Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun.* (AAAI 2017) \[[paper](https://www.ijcai.org/proceedings/2017/0595.pdf)\]\[[code](https://github.com/thunlp/IEAJKE)\]
+*Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun.* (IJCAI 2017) \[[paper](https://www.ijcai.org/proceedings/2017/0595.pdf)\]\[[code](https://github.com/thunlp/IEAJKE)\]
 
 1. **BootEA**: **"Bootstrapping Entity Alignment with Knowledge Graph Embedding".**
 *Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu.* (IJCAI 2018) \[[paper](https://www.ijcai.org/proceedings/2018/0611.pdf)\]\[[code](https://github.com/nju-websoft/BootEA)\]
@@ -112,6 +112,9 @@ This section contains promising recent preprints.
 
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
 *Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (Preprint 2020) \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
+
+1. **"Active Learning for Entity Alignment".**
+*Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (Preprint 2020) \[[paper](https://arxiv.org/abs/2001.08943)\]
 
 
 ## Tools
