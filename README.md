@@ -102,6 +102,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **JarKA**: **"JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment".**
 *Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li* (PAKDD 2020) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[[code](https://github.com/BoChen-Daniel/PAKDD-20-JarKA)\]
 
+1. **NMN**: **"Neighborhood Matching Network for Entity Alignment".**
+*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (ACL 2020) \[[paper](https://arxiv.org/pdf/2005.05607.pdf)\]\[[code](https://github.com/StephanieWyt/NMN)\]
+
 
 ## Preprints
 
