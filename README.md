@@ -16,7 +16,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Zequn Sun, Wei Hu, Chengkai Li.* (ISWC 2017) \[[paper](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/188.pdf)\]\[[code](https://github.com/nju-websoft/JAPE)\]
 
 1. **IPTransE**: **"Iterative Entity Alignment via Joint Knowledge Embeddings".**
-*Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun.* (AAAI 2017) \[[paper](https://www.ijcai.org/proceedings/2017/0595.pdf)\]\[[code](https://github.com/thunlp/IEAJKE)\]
+*Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun.* (IJCAI 2017) \[[paper](https://www.ijcai.org/proceedings/2017/0595.pdf)\]\[[code](https://github.com/thunlp/IEAJKE)\]
 
 1. **BootEA**: **"Bootstrapping Entity Alignment with Knowledge Graph Embedding".**
 *Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu.* (IJCAI 2018) \[[paper](https://www.ijcai.org/proceedings/2018/0611.pdf)\]\[[code](https://github.com/nju-websoft/BootEA)\]
@@ -27,10 +27,10 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **NTAM**: **"Non-translational Alignment for Multi-relational Networks".**
 *Shengnan Li, Xin Li, Rui Ye, Mingzhong Wang, Haiping Su, Yingzi Ou.* (IJCAI 2018) \[[paper](https://www.ijcai.org/proceedings/2018/0581.pdf)\]\[code\]
 
-1. **GCN**: **"Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks".**
+1. **GCN-Align**: **"Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks".**
 *Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.* (EMNLP 2018) \[[paper](https://www.aclweb.org/anthology/D18-1032)\]\[[code](https://github.com/1049451037/GCN-Align)\]
 
-1. : **"Entity Alignment between Knowledge Graphs Using Attribute Embeddings".**
+1. **AttrE**: **"Entity Alignment between Knowledge Graphs Using Attribute Embeddings".**
 *Bayu D. Trsedya, Jianzhong Qi, Rui Zhang.* (AAAI 2019) \[[paper](http://www.ruizhang.info/publications/AAAI2019-Entity%20Alignment%20between%20Knowledge%20Graphs%20Using%20Attribute%20Embeddings.pdf)\]\[[code](https://bitbucket.org/bayudt/kba/src)\]
 
 1. **SEA**: **"Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference".**
@@ -69,7 +69,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **HGCN**: **"Jointly Learning Entity and Relation Representations for Entity Alignment".**
 *Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1023.pdf)\]\[[code](https://github.com/StephanieWyt/HGCN-JE-JR)\]
 
-1. : **"Modeling Multi-mapping relations for Precise Cross-lingual Entity Alignment".**
+1. **MMEA**: **"Modeling Multi-mapping relations for Precise Cross-lingual Entity Alignment".**
 *Xiaofei Shi, Yanghua Xiao* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1075.pdf)\]\[code\]
 
 1. **HMAN**: **"Aligning Cross-lingual Entities with Multi-Aspect Information".**
@@ -97,7 +97,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.* (ICLR 2020) \[[paper](https://openreview.net/pdf?id=HyeJf1HKvS)\]\[code\]
 
 1. **CG-MuAlign**: **"Collective Multi-type Entity Alignment Between Knowledge Graphs".**
-*Qi Zhu, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han.* (WWW 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380289)\]\[[code](https://github.com/GentleZhu/CG-MuAlign)\]
+*Qi Zhu, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han.* (WWW 2020) \[[paper](https://assets.amazon.science/ff/7a/b96282984a0fbe5e31a8fcf68d17/scipub-1202.pdf)\]\[code\]
 
 1. **JarKA**: **"JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment".**
 *Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li* (PAKDD 2020) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[[code](https://github.com/BoChen-Daniel/PAKDD-20-JarKA)\]
@@ -113,7 +113,17 @@ This section contains promising recent preprints.
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
 *Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (Preprint 2020) \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
 
+1. **"Active Learning for Entity Alignment".**
+*Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (Preprint 2020) \[[paper](https://arxiv.org/abs/2001.08943)\]
+
+
+## Tools
+
+1. **OpenEA** \[[repo](https://github.com/nju-websoft/OpenEA)\]: a TensorFlow-based EA framework.
+
+1. **EAkit** \[[repo](https://github.com/THU-KEG/EAkit)\]: a PyTorch-based EA framework.
+
 
 ## Comments
 
-If you find any errors in the above information, please let me know in [Issues](https://github.com/THU-KEG/Entity_Alignment_Papers/issues). [Pull requests](https://github.com/THU-KEG/Entity_Alignment_Papers/pulls) are welcomed for adding papers.
+If you find any errors in the above information, please let us know in [Issues](https://github.com/THU-KEG/Entity_Alignment_Papers/issues). [Pull requests](https://github.com/THU-KEG/Entity_Alignment_Papers/pulls) are welcomed for adding papers.
