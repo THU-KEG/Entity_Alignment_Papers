@@ -105,6 +105,12 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **NMN**: **"Neighborhood Matching Network for Entity Alignment".**
 *Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (ACL 2020) \[[paper](https://arxiv.org/pdf/2005.05607.pdf)\]\[[code](https://github.com/StephanieWyt/NMN)\]
 
+1. **BERT-INT**: **"BERT-INT: A BERT-based Interaction Model For Knowledge Graph Alignment".**
+*Xiaobin Tang, Jing Zhang, Bo Chen, Yang Yang, Hong Chen, Cuiping Li* (IJCAI 2020) \[[paper](http://yangy.org/works/bert-int/InteractionKA.pdf)\]\[code\]
+
+1. : **"Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment".**
+*Hao Nie, Xianpei Han, Le Sun, Chi Man Wong, Qiang Chen, Suhui Wu, Wei Zhang* (IJCAI 2020) \[paper\]\[code\]
+
 
 ## Preprints
 
