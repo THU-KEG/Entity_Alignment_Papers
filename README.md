@@ -111,6 +111,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. : **"Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment".**
 *Hao Nie, Xianpei Han, Le Sun, Chi Man Wong, Qiang Chen, Suhui Wu, Wei Zhang* (IJCAI 2020) \[paper\]\[code\]
 
+1. **DAT**: **"Degree-Aware Alignment for Entities in Tail".**
+*Weixin Zeng, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan.* (SIGIR 2020) \[[paper](https://arxiv.org/pdf/2005.12132.pdf)\]\[[code](https://github.com/DexterZeng/DAT)\]
+
 
 ## Preprints
 
