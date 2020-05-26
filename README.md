@@ -79,7 +79,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang* (ICDM 2019) \[[paper](https://ieeexplore.ieee.org/document/8970718/)\]\[[code](https://github.com/IIEdm/AKE)\]
 
 1. **MRAEA**: **"MRAEA: An Efficient and Robust Cross-lingual Entity Alignment Approach via Meta Relation Aware Representation".**
-*Xin Mao, Wenting Wang, Huimin Xu, Man Lan, Yuanbin Wu.* (WSDM 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371804)\]\[code\]
+*Xin Mao, Wenting Wang, Huimin Xu, Man Lan, Yuanbin Wu.* (WSDM 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371804)\]\[[code](https://github.com/MaoXinn/MRAEA)\]
 
 1. **AliNet**: **"Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation".**
 *Zequn Sun, Chengming Wang, Wei Hu, Muhao Chen, Jian Dai, Wei Zhang, Yuzhong Qu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/1911.08936.pdf)\]\[[code](https://github.com/nju-websoft/AliNet)\]
