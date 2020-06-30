@@ -97,7 +97,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.* (ICLR 2020) \[[paper](https://openreview.net/pdf?id=HyeJf1HKvS)\]\[code\]
 
 1. **CG-MuAlign**: **"Collective Multi-type Entity Alignment Between Knowledge Graphs".**
-*Qi Zhu, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han.* (WWW 2020) \[[paper](https://assets.amazon.science/ff/7a/b96282984a0fbe5e31a8fcf68d17/scipub-1202.pdf)\]\[code\]
+*Qi Zhu, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han.* (WWW 2020) \[[paper](https://assets.amazon.science/ff/7a/b96282984a0fbe5e31a8fcf68d17/scipub-1202.pdf)\]\[[code](https://github.com/GentleZhu/CG-MuAlign)\]
 
 1. **JarKA**: **"JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment".**
 *Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li* (PAKDD 2020) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[[code](https://github.com/BoChen-Daniel/PAKDD-20-JarKA)\]
