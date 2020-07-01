@@ -114,6 +114,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **DAT**: **"Degree-Aware Alignment for Entities in Tail".**
 *Weixin Zeng, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan.* (SIGIR 2020) \[[paper](https://arxiv.org/pdf/2005.12132.pdf)\]\[[code](https://github.com/DexterZeng/DAT)\]
 
+1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
+*Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (VLDB 2020) \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
+
 
 ## Preprints
 
@@ -121,9 +124,6 @@ This section contains promising recent preprints.
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
 *Meng Qu, Jian Tang, Yoshua Bengio* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
-
-1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
-*Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (Preprint 2020) \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
 
 1. **"Active Learning for Entity Alignment".**
 *Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (Preprint 2020) \[[paper](https://arxiv.org/abs/2001.08943)\]
