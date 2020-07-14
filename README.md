@@ -106,10 +106,10 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (ACL 2020) \[[paper](https://arxiv.org/pdf/2005.05607.pdf)\]\[[code](https://github.com/StephanieWyt/NMN)\]
 
 1. **BERT-INT**: **"BERT-INT: A BERT-based Interaction Model For Knowledge Graph Alignment".**
-*Xiaobin Tang, Jing Zhang, Bo Chen, Yang Yang, Hong Chen, Cuiping Li* (IJCAI 2020) \[[paper](http://yangy.org/works/bert-int/InteractionKA.pdf)\]\[code\]
+*Xiaobin Tang, Jing Zhang, Bo Chen, Yang Yang, Hong Chen, Cuiping Li* (IJCAI 2020) \[[paper](https://www.ijcai.org/Proceedings/2020/0439.pdf)\]\[[code](https://github.com/kosugi11037/bert-int)\]
 
-1. : **"Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment".**
-*Hao Nie, Xianpei Han, Le Sun, Chi Man Wong, Qiang Chen, Suhui Wu, Wei Zhang* (IJCAI 2020) \[paper\]\[code\]
+1. **SSP**: **"Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment".**
+*Hao Nie, Xianpei Han, Le Sun, Chi Man Wong, Qiang Chen, Suhui Wu, Wei Zhang* (IJCAI 2020) \[[paper](https://www.ijcai.org/Proceedings/2020/0506.pdf)\]\[code\]
 
 1. **DAT**: **"Degree-Aware Alignment for Entities in Tail".**
 *Weixin Zeng, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan.* (SIGIR 2020) \[[paper](https://arxiv.org/pdf/2005.12132.pdf)\]\[[code](https://github.com/DexterZeng/DAT)\]
