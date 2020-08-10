@@ -58,25 +58,25 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0269.pdf)\]\[code\]
 
 1. **AVR-GCN**: **"A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment".**
-*Rui Ye, Xin Li, Yujie Fang, Hongyu Zang, Mingzhong Wang* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019//0574.pdf)\]\[code\]
+*Rui Ye, Xin Li, Yujie Fang, Hongyu Zang, Mingzhong Wang.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019//0574.pdf)\]\[code\]
 
 1. **TransEdge**: **"TransEdge: Translating Relation-Contextualized Embeddings for Knowledge Graphs".**
 *Zequn Sun, Jiacheng Huang, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu.* (ISWC 2019) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-30793-6_35)\]\[[code](https://github.com/nju-websoft/TransEdge)\]
 
 1. **KECG**: **"Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model".**
-*Chengjiang Li, Yixin Cao, Lei Hou, Jiaxin Shi, Juanzi Li, Tat-Seng Chua* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1274.pdf)\]\[[code](https://github.com/THU-KEG/KECG)\]
+*Chengjiang Li, Yixin Cao, Lei Hou, Jiaxin Shi, Juanzi Li, Tat-Seng Chua.* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1274.pdf)\]\[[code](https://github.com/THU-KEG/KECG)\]
 
 1. **HGCN**: **"Jointly Learning Entity and Relation Representations for Entity Alignment".**
-*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1023.pdf)\]\[[code](https://github.com/StephanieWyt/HGCN-JE-JR)\]
+*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao.* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1023.pdf)\]\[[code](https://github.com/StephanieWyt/HGCN-JE-JR)\]
 
 1. **MMEA**: **"Modeling Multi-mapping relations for Precise Cross-lingual Entity Alignment".**
-*Xiaofei Shi, Yanghua Xiao* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1075.pdf)\]\[code\]
+*Xiaofei Shi, Yanghua Xiao.* (EMNLP 2019) \[[paper](https://www.aclweb.org/anthology/D19-1075.pdf)\]\[code\]
 
 1. **HMAN**: **"Aligning Cross-lingual Entities with Multi-Aspect Information".**
-*Hsiu-Wei Yang, Yanyan Zou, Peng Shi, Wei Lu, Jimmy Lin, Xu Sun* (EMNLP 2019) \[[paper](https://cs.uwaterloo.ca/~jimmylin/publications/YangHW_etal_EMNLP2019.pdf)\]\[[code](https://github.com/h324yang/HMAN)\]
+*Hsiu-Wei Yang, Yanyan Zou, Peng Shi, Wei Lu, Jimmy Lin, Xu Sun.* (EMNLP 2019) \[[paper](https://cs.uwaterloo.ca/~jimmylin/publications/YangHW_etal_EMNLP2019.pdf)\]\[[code](https://github.com/h324yang/HMAN)\]
 
 1. **AKE**: **"Guiding Cross-lingual Entity Alignment via Adversarial Knowledge Embedding".**
-*Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang* (ICDM 2019) \[[paper](https://ieeexplore.ieee.org/document/8970718/)\]\[[code](https://github.com/IIEdm/AKE)\]
+*Xixun Lin, Hong Yang, Jia Wu, Chuan Zhou, Bin Wang.* (ICDM 2019) \[[paper](https://ieeexplore.ieee.org/document/8970718/)\]\[[code](https://github.com/IIEdm/AKE)\]
 
 1. **MRAEA**: **"MRAEA: An Efficient and Robust Cross-lingual Entity Alignment Approach via Meta Relation Aware Representation".**
 *Xin Mao, Wenting Wang, Huimin Xu, Man Lan, Yuanbin Wu.* (WSDM 2020) \[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371804)\]\[[code](https://github.com/MaoXinn/MRAEA)\]
@@ -100,16 +100,16 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Qi Zhu, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han.* (WWW 2020) \[[paper](https://assets.amazon.science/ff/7a/b96282984a0fbe5e31a8fcf68d17/scipub-1202.pdf)\]\[[code](https://github.com/GentleZhu/CG-MuAlign)\]
 
 1. **JarKA**: **"JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment".**
-*Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li* (PAKDD 2020) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[[code](https://github.com/BoChen-Daniel/PAKDD-20-JarKA)\]
+*Bo Chen, Jing Zhang, Xiaobin Tang, Hong Chen, Cuiping Li.* (PAKDD 2020) \[[paper](https://arxiv.org/pdf/1910.13105.pdf)\]\[[code](https://github.com/BoChen-Daniel/PAKDD-20-JarKA)\]
 
 1. **NMN**: **"Neighborhood Matching Network for Entity Alignment".**
-*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao* (ACL 2020) \[[paper](https://arxiv.org/pdf/2005.05607.pdf)\]\[[code](https://github.com/StephanieWyt/NMN)\]
+*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Dongyan Zhao.* (ACL 2020) \[[paper](https://arxiv.org/pdf/2005.05607.pdf)\]\[[code](https://github.com/StephanieWyt/NMN)\]
 
 1. **BERT-INT**: **"BERT-INT: A BERT-based Interaction Model For Knowledge Graph Alignment".**
-*Xiaobin Tang, Jing Zhang, Bo Chen, Yang Yang, Hong Chen, Cuiping Li* (IJCAI 2020) \[[paper](https://www.ijcai.org/Proceedings/2020/0439.pdf)\]\[[code](https://github.com/kosugi11037/bert-int)\]
+*Xiaobin Tang, Jing Zhang, Bo Chen, Yang Yang, Hong Chen, Cuiping Li.* (IJCAI 2020) \[[paper](https://www.ijcai.org/Proceedings/2020/0439.pdf)\]\[[code](https://github.com/kosugi11037/bert-int)\]
 
 1. **SSP**: **"Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment".**
-*Hao Nie, Xianpei Han, Le Sun, Chi Man Wong, Qiang Chen, Suhui Wu, Wei Zhang* (IJCAI 2020) \[[paper](https://www.ijcai.org/Proceedings/2020/0506.pdf)\]\[code\]
+*Hao Nie, Xianpei Han, Le Sun, Chi Man Wong, Qiang Chen, Suhui Wu, Wei Zhang.* (IJCAI 2020) \[[paper](https://www.ijcai.org/Proceedings/2020/0506.pdf)\]\[code\]
 
 1. **DAT**: **"Degree-Aware Alignment for Entities in Tail".**
 *Weixin Zeng, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan.* (SIGIR 2020) \[[paper](https://arxiv.org/pdf/2005.12132.pdf)\]\[[code](https://github.com/DexterZeng/DAT)\]
@@ -123,10 +123,13 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 This section contains promising recent preprints.
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
-*Meng Qu, Jian Tang, Yoshua Bengio* (Arxiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
+*Meng Qu, Jian Tang, Yoshua Bengio.* (arXiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
 
 1. **"Active Learning for Entity Alignment".**
-*Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (Preprint 2020) \[[paper](https://arxiv.org/abs/2001.08943)\]
+*Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (arXiv 2020) \[[paper](https://arxiv.org/abs/2001.08943)\]
+
+1. **JEANS**: **"Cross-lingual Entity Alignment for Knowledge Graphs with Incidental Supervision from Free Text".**
+*Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth.* (arXiv 2020) \[[paper](https://arxiv.org/abs/2005.00171.pdf)\]\[code\]
 
 
 ## Tools
