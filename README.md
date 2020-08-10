@@ -88,7 +88,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Kun Xu, Linfeng Song, Yansong Feng, Yan Song, Dong Yu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/2001.08728.pdf)\]\[code\]
 
 1. **COTSAE**: **"COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment".**
-*Kai Yang, Shaoqin Liu, Junfeng Zhao, Yasha Wang, Bing Xie.* (AAAI 2020) \[[paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-YangK.8586.pdf)\]\[[code](https://github.com/ykpku/COTSA)\]
+*Kai Yang, Shaoqin Liu, Junfeng Zhao, Yasha Wang, Bing Xie.* (AAAI 2020) \[[paper](http://www.dit.unitn.it/~pavel/OM/articles/Yang_AAAI20.pdf)\]\[[code](https://github.com/ykpku/COTSA)\]
 
 1. **CEAFF**: **"Collective Embedding-based Entity Alignment via Adaptive Features".**
 *Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin.* (ICDE 2020) \[[paper](https://arxiv.org/pdf/1912.08404.pdf)\]\[code\]
