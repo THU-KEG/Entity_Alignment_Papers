@@ -117,6 +117,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
 *Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (VLDB 2020) \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
 
+1. **RREA**: **"Relational Reflection Entity Alignment".**
+*Xin Mao, Wenting Wang, Huimin Xu, Yuanbin Wu, Man Lan.* (CIKM 2020) \[[paper](https://arxiv.org/pdf/2008.07962.pdf)\]\[[code](https://github.com/MaoXinn/RREA)\]
+
 
 ## Preprints
 
