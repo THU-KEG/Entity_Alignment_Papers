@@ -120,6 +120,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **RREA**: **"Relational Reflection Entity Alignment".**
 *Xin Mao, Wenting Wang, Huimin Xu, Yuanbin Wu, Man Lan.* (CIKM 2020) \[[paper](https://arxiv.org/pdf/2008.07962.pdf)\]\[[code](https://github.com/MaoXinn/RREA)\]
 
+1. **REA**: **"REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs".**
+*Shichao Pei, Lu Yu, Guoxian Yu, Xiangliang Zhang.* (KDD 2020) \[[paper](https://dl.acm.org/doi/10.1145/3394486.3403268)\]\[[code](https://github.com/scpei/REA)\]
+
 
 ## Preprints
 
