@@ -4,7 +4,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 
 
 
-## Conference papers:
+## Conference papers (methods):
 
 1. **JE**: **"A Joint Embedding Method for Entity Alignment of Knowledge Bases".**
 *Yanchao Hao, Yuanzhe Zhang, Shizhu He, Kang Liu, Jun Zhao.* (CCKS 2016) \[[paper](http://ir.ia.ac.cn/bitstream/173211/20186/1/A%20Joint%20Embedding%20Method%20for%20Entity%20Alignment%20of%20Knowledge%20Bases.pdf)\]\[code\]
@@ -27,6 +27,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **NTAM**: **"Non-translational Alignment for Multi-relational Networks".**
 *Shengnan Li, Xin Li, Rui Ye, Mingzhong Wang, Haiping Su, Yingzi Ou.* (IJCAI 2018) \[[paper](https://www.ijcai.org/proceedings/2018/0581.pdf)\]\[code\]
 
+1. **"LinkNBed: Multi-Graph Representation Learning with Entity Linkage".""
+*Rakshit Trivedi, Bunyamin Sisman, Jun Ma, Christos Faloutsos, Hongyuan Zha, Xin Luna Dong* (ACL 2018) \[[paper](https://www.aclweb.org/anthology/P18-1024.pdf)\]
+
 1. **GCN-Align**: **"Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks".**
 *Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.* (EMNLP 2018) \[[paper](https://www.aclweb.org/anthology/D18-1032)\]\[[code](https://github.com/1049451037/GCN-Align)\]
 
@@ -39,11 +42,11 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **RSN4EA**: **"Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs".**
 *Lingbing Guo, Zequn Sun, Wei Hu.* (ICML 2019) \[[paper](https://arxiv.org/pdf/1905.04914.pdf)\]\[[code](https://github.com/nju-websoft/RSN)\]
 
-1. **GMNN**: **"Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network".**
-*Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu.* (ACL 2019) \[[paper](https://arxiv.org/pdf/1905.11605.pdf)\]\[[code](https://github.com/syxu828/Crosslingula-KG-Matching)\]
-
 1. **MuGNN**: **"Multi-Channel Graph Neural Network for Entity Alignment".**
 *Yixin Cao, Zhiyuan Liu, Chengjiang Li, Zhiyuan Liu, Juanzi Li, Tat-Seng Chua.* (ACL 2019) \[[paper](https://www.aclweb.org/anthology/P19-1140)\]\[[code](https://github.com/thunlp/MuGNN)\]
+
+1. **GMNN**: **"Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network".**
+*Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu.* (ACL 2019) \[[paper](https://arxiv.org/pdf/1905.11605.pdf)\]\[[code](https://github.com/syxu828/Crosslingula-KG-Matching)\]
 
 1. **MultiKE**: **"Multi-view Knowledge Graph Embedding for Entity Alignment".**
 *Qingheng Zhang, Zequn Sun, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu.* (IJCAI 2019) \[[paper](https://www.ijcai.org/proceedings/2019/0754.pdf)\]\[[code](https://github.com/nju-websoft/MultiKE)\]
@@ -84,7 +87,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **AliNet**: **"Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation".**
 *Zequn Sun, Chengming Wang, Wei Hu, Muhao Chen, Jian Dai, Wei Zhang, Yuzhong Qu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/1911.08936.pdf)\]\[[code](https://github.com/nju-websoft/AliNet)\]
 
-1. : **"Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment".**
+1. **"Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment".**
 *Kun Xu, Linfeng Song, Yansong Feng, Yan Song, Dong Yu.* (AAAI 2020) \[[paper](https://arxiv.org/pdf/2001.08728.pdf)\]\[code\]
 
 1. **COTSAE**: **"COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment".**
@@ -93,7 +96,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **CEAFF**: **"Collective Embedding-based Entity Alignment via Adaptive Features".**
 *Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin.* (ICDE 2020) \[[paper](https://arxiv.org/pdf/1912.08404.pdf)\]\[code\]
 
-1. : **"Deep Graph Matching Consensus".**
+1. **"Deep Graph Matching Consensus".**
 *Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.* (ICLR 2020) \[[paper](https://openreview.net/pdf?id=HyeJf1HKvS)\]\[code\]
 
 1. **CG-MuAlign**: **"Collective Multi-type Entity Alignment Between Knowledge Graphs".**
@@ -114,14 +117,20 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **DAT**: **"Degree-Aware Alignment for Entities in Tail".**
 *Weixin Zeng, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan.* (SIGIR 2020) \[[paper](https://arxiv.org/pdf/2005.12132.pdf)\]\[[code](https://github.com/DexterZeng/DAT)\]
 
-1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
-*Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* (VLDB 2020) \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
-
 1. **RREA**: **"Relational Reflection Entity Alignment".**
 *Xin Mao, Wenting Wang, Huimin Xu, Yuanbin Wu, Man Lan.* (CIKM 2020) \[[paper](https://arxiv.org/pdf/2008.07962.pdf)\]\[[code](https://github.com/MaoXinn/RREA)\]
 
 1. **REA**: **"REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs".**
 *Shichao Pei, Lu Yu, Guoxian Yu, Xiangliang Zhang.* (KDD 2020) \[[paper](https://dl.acm.org/doi/10.1145/3394486.3403268)\]\[[code](https://github.com/scpei/REA)\]
+
+
+## Surveys and Benchmarking Studies
+
+1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
+*Zequn Sun, Qingheng Zhang, Wei Hu, Chengming Wang, Muhao Chen, Farahnaz Akrami, Chengkai Li.* PVLDB, vol. 13. ACM 2020 \[[paper](https://arxiv.org/pdf/2003.07743.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
+
+1. **"An Experimental Study of State-of-the-Art Entity Alignment Approaches".**
+*Xiang Zhao, Weixin Zeng, Jiuyang Tang, Wei Wang, Fabian Suchanek.* TKDE, 2020 \[[paper](https://doi.org/10.1109/TKDE.2020.3018741)\]
 
 
 ## Preprints
@@ -136,6 +145,9 @@ This section contains promising recent preprints.
 
 1. **JEANS**: **"Cross-lingual Entity Alignment for Knowledge Graphs with Incidental Supervision from Free Text".**
 *Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth.* (arXiv 2020) \[[paper](https://arxiv.org/abs/2005.00171.pdf)\]\[code\]
+
+1. **"Generalized Multi-Relational Graph Convolution Network".**
+*Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
 
 
 ## Tools
