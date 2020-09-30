@@ -149,6 +149,9 @@ This section contains promising recent preprints.
 1. **"Generalized Multi-Relational Graph Convolution Network".**
 *Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
 
+1. **"Visual Pivoting for (Unsupervised) Entity Alignment".**
+*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]
+
 
 ## Tools
 
