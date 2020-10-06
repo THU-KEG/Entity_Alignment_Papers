@@ -123,6 +123,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **REA**: **"REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs".**
 *Shichao Pei, Lu Yu, Guoxian Yu, Xiangliang Zhang.* (KDD 2020) \[[paper](https://dl.acm.org/doi/10.1145/3394486.3403268)\]\[[code](https://github.com/scpei/REA)\]
 
+1. **HyperKA**: **"Knowledge Association with Hyperbolic Knowledge Graph Embeddings".**
+*Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang.* (EMNLP 2020) \[[paper](https://arxiv.org/pdf/2010.02162.pdf)\]\[[code](https://github.com/nju-websoft/HyperKA)\]
 
 ## Surveys and Benchmarking Studies
 
