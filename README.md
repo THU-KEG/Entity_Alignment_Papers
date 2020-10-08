@@ -126,6 +126,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **HyperKA**: **"Knowledge Association with Hyperbolic Knowledge Graph Embeddings".**
 *Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang.* (EMNLP 2020) \[[paper](https://arxiv.org/pdf/2010.02162.pdf)\]\[[code](https://github.com/nju-websoft/HyperKA)\]
 
+1. **AttrGNN**: **"Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment".**
+*Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu, Tat-Seng Chua.* (EMNLP 2020) \[[paper](https://arxiv.org/pdf/2010.03249.pdf)\]\[[code](https://github.com/thunlp/explore-and-evaluate)\]
+
 ## Surveys and Benchmarking Studies
 
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
