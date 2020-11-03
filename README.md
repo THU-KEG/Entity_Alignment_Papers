@@ -13,7 +13,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Muhao Chen, Yingtao Tian, Mohan Yang, Carlo Zaniolo.* (IJCAI 2017) \[[paper](https://www.ijcai.org/proceedings/2017/0209.pdf)\]\[[code](https://github.com/muhaochen/MTransE)\]
 
 1. **JAPE**: **"Cross-Lingual Entity Alignment via Joint Attribute-Preserving Embedding".**
-*Zequn Sun, Wei Hu, Chengkai Li.* (ISWC 2017) \[[paper](https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/188.pdf)\]\[[code](https://github.com/nju-websoft/JAPE)\]
+*Zequn Sun, Wei Hu, Chengkai Li.* (ISWC 2017) \[[paper](https://arxiv.org/pdf/1708.05045.pdf)\]\[[code](https://github.com/nju-websoft/JAPE)\]
 
 1. **IPTransE**: **"Iterative Entity Alignment via Joint Knowledge Embeddings".**
 *Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun.* (IJCAI 2017) \[[paper](https://www.ijcai.org/proceedings/2017/0595.pdf)\]\[[code](https://github.com/thunlp/IEAJKE)\]
@@ -129,6 +129,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **AttrGNN**: **"Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment".**
 *Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu, Tat-Seng Chua.* (EMNLP 2020) \[[paper](https://arxiv.org/pdf/2010.03249.pdf)\]\[[code](https://github.com/thunlp/explore-and-evaluate)\]
 
+1. **"Learning Short-Term Differences and Long-Term Dependencies for Entity Alignment".**
+*Jia Chen, Zhixu Li, Pengpeng Zhao, An Liu, Lei Zhao, Zhigang Chen, Xiangliang Zhang.* (ISWC 2020) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_6)\]
+
 ## Surveys and Benchmarking Studies
 
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
@@ -136,6 +139,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 
 1. **"An Experimental Study of State-of-the-Art Entity Alignment Approaches".**
 *Xiang Zhao, Weixin Zeng, Jiuyang Tang, Wei Wang, Fabian Suchanek.* TKDE, 2020 \[[paper](https://doi.org/10.1109/TKDE.2020.3018741)\]
+
+1. **"An Industry Evaluation of Embedding-based Entity Alignment".**
+*Ziheng Zhang, Jiaoyan Chen, Xi Chen, Hualuo Liu, Yuejia Xiang, Bo Liu, Yefeng Zheng.* (COLING 2020) \[[paper](https://arxiv.org/pdf/2010.11522.pdf)\]\[[code](https://github.com/ZihengZZH/industry-eval-EA)\]
 
 
 ## Preprints
@@ -152,10 +158,13 @@ This section contains promising recent preprints.
 *Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth.* (arXiv 2020) \[[paper](https://arxiv.org/abs/2005.00171.pdf)\]\[code\]
 
 1. **"Generalized Multi-Relational Graph Convolution Network".**
-*Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
+*Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
 
 1. **"Visual Pivoting for (Unsupervised) Entity Alignment".**
-*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]
+*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]
+
+1. **"A Critical Assessment of State-of-the-Art in Entity Alignment".**
+*Max Berrendorf, Ludwig Wacker, Evgeniy Faerman.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2010.16314.pdf)\]\[[code](https://github.com/mberr/ea-sota-comparison)\]
 
 
 ## Tools
