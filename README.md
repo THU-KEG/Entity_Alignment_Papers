@@ -124,10 +124,13 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Shichao Pei, Lu Yu, Guoxian Yu, Xiangliang Zhang.* (KDD 2020) \[[paper](https://dl.acm.org/doi/10.1145/3394486.3403268)\]\[[code](https://github.com/scpei/REA)\]
 
 1. **HyperKA**: **"Knowledge Association with Hyperbolic Knowledge Graph Embeddings".**
-*Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang.* (EMNLP 2020) \[[paper](https://arxiv.org/pdf/2010.02162.pdf)\]\[[code](https://github.com/nju-websoft/HyperKA)\]
+*Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang.* (EMNLP 2020) \[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.460.pdf)\]\[[code](https://github.com/nju-websoft/HyperKA)\]
 
 1. **AttrGNN**: **"Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment".**
-*Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu, Tat-Seng Chua.* (EMNLP 2020) \[[paper](https://arxiv.org/pdf/2010.03249.pdf)\]\[[code](https://github.com/thunlp/explore-and-evaluate)\]
+*Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu, Tat-Seng Chua.* (EMNLP 2020) \[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.515.pdf)\]\[[code](https://github.com/thunlp/explore-and-evaluate)\]
+
+1. **EPEA**: **"Knowledge Graph Alignment with Entity-Pair Embedding".**
+*Zhichun Wang, Jinjian Yang, Xiaoju Ye.* (EMNLP 2020) \[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.130.pdf)\]
 
 1. **"Learning Short-Term Differences and Long-Term Dependencies for Entity Alignment".**
 *Jia Chen, Zhixu Li, Pengpeng Zhao, An Liu, Lei Zhao, Zhigang Chen, Xiangliang Zhang.* (ISWC 2020) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_6)\]
