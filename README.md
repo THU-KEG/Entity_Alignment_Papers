@@ -135,6 +135,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **"Learning Short-Term Differences and Long-Term Dependencies for Entity Alignment".**
 *Jia Chen, Zhixu Li, Pengpeng Zhao, An Liu, Lei Zhao, Zhigang Chen, Xiangliang Zhang.* (ISWC 2020) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_6)\]
 
+1. **"Visual Pivoting for (Unsupervised) Entity Alignment".**
+*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]
+
 ## Surveys and Benchmarking Studies
 
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
@@ -162,9 +165,6 @@ This section contains promising recent preprints.
 
 1. **"Generalized Multi-Relational Graph Convolution Network".**
 *Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
-
-1. **"Visual Pivoting for (Unsupervised) Entity Alignment".**
-*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]
 
 1. **"A Critical Assessment of State-of-the-Art in Entity Alignment".**
 *Max Berrendorf, Ludwig Wacker, Evgeniy Faerman.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2010.16314.pdf)\]\[[code](https://github.com/mberr/ea-sota-comparison)\]
