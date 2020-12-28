@@ -136,7 +136,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Jia Chen, Zhixu Li, Pengpeng Zhao, An Liu, Lei Zhao, Zhigang Chen, Xiangliang Zhang.* (ISWC 2020) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_6)\]
 
 1. **"Visual Pivoting for (Unsupervised) Entity Alignment".**
-*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]
+*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]\[[code](https://github.com/cambridgeltl/eva)\]
 
 1. **RNM**: **"Relation-Aware Neighborhood Matching Model for Entity Alignment".**
 *Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yingpeng Du.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2012.08128.pdf)\]
