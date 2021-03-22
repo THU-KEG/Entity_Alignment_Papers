@@ -1,6 +1,6 @@
 # Entity Alignment Papers
 
-This is a repo listing some must-read papers on Entity Alignment published in recent years, contributed by [Chengjiang Li](https://github.com/iamlockelightning) and [Zequn Sun](https://github.com/sunzequn).
+This is a repo listing some must-read papers on Entity Alignment published in recent years, mainly contributed by [Chengjiang Li](https://github.com/iamlockelightning) and [Zequn Sun](https://github.com/sunzequn).
 
 
 
@@ -136,10 +136,16 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Jia Chen, Zhixu Li, Pengpeng Zhao, An Liu, Lei Zhao, Zhigang Chen, Xiangliang Zhang.* (ISWC 2020) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_6)\]
 
 1. **"Visual Pivoting for (Unsupervised) Entity Alignment".**
-*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]
+*Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]\[[code](https://github.com/cambridgeltl/eva)\]
+
+1. **"Dynamic Knowledge Graph Alignment".**
+*Yuchen Yan, Lihui Liu, Yikun Ban, Baoyu Jing, Hanghang Tong.* (AAAI 2021)
 
 1. **RNM**: **"Relation-Aware Neighborhood Matching Model for Entity Alignment".**
 *Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yingpeng Du.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2012.08128.pdf)\]
+
+1. **"Cross-lingual Entity Alignment with Incidental Supervision".**
+*Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth.* (EACL 2020) \[[paper](https://arxiv.org/abs/2005.00171)\]\[code\]
 
 ## Surveys and Benchmarking Studies
 
@@ -149,22 +155,22 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **"An Experimental Study of State-of-the-Art Entity Alignment Approaches".**
 *Xiang Zhao, Weixin Zeng, Jiuyang Tang, Wei Wang, Fabian Suchanek.* TKDE, 2020 \[[paper](https://doi.org/10.1109/TKDE.2020.3018741)\]
 
+1. **"Knowledge graph entity alignment with graph convolutional networks: Lessons learned".**
+*Max Berrendorf, Evgeniy Faerman, Valentyn Melnychuk, Volker Tresp, Thomas Seidl.* (ECIR 2020) \[[paper](https://arxiv.org/abs/1911.08342)\]
+
 1. **"An Industry Evaluation of Embedding-based Entity Alignment".**
 *Ziheng Zhang, Jiaoyan Chen, Xi Chen, Hualuo Liu, Yuejia Xiang, Bo Liu, Yefeng Zheng.* (COLING 2020) \[[paper](https://arxiv.org/pdf/2010.11522.pdf)\]\[[code](https://github.com/ZihengZZH/industry-eval-EA)\]
 
 
 ## Preprints
 
-This section contains promising recent preprints.
+This section contains selected promising preprints.
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
 *Meng Qu, Jian Tang, Yoshua Bengio.* (arXiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
 
 1. **"Active Learning for Entity Alignment".**
 *Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (arXiv 2020) \[[paper](https://arxiv.org/abs/2001.08943)\]
-
-1. **JEANS**: **"Cross-lingual Entity Alignment for Knowledge Graphs with Incidental Supervision from Free Text".**
-*Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth.* (arXiv 2020) \[[paper](https://arxiv.org/abs/2005.00171.pdf)\]\[code\]
 
 1. **"Generalized Multi-Relational Graph Convolution Network".**
 *Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
