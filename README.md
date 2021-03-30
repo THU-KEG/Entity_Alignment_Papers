@@ -145,7 +145,13 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yingpeng Du.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2012.08128.pdf)\]
 
 1. **"Cross-lingual Entity Alignment with Incidental Supervision".**
-*Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth.* (EACL 2020) \[[paper](https://arxiv.org/abs/2005.00171)\]\[code\]
+*Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth.* (EACL 2021) \[[paper](https://arxiv.org/abs/2005.00171)\]\[code\]
+
+1. **"Active Learning for Entity Alignment".**
+*Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (ECIR 2021) \[[paper](https://arxiv.org/abs/2001.08943)\]
+
+1. **Dual-AMN**: **"Boosting the Speed of Entity Alignment 10×: Dual Attention Matching Network with Normalized Hard Sample Mining".**
+*Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (WWW 2021) \[[paper](https://arxiv.org/pdf/2103.15452.pdf)\]\[[code](https://github.com/MaoXinn/Dual-AMN)\]
 
 ## Surveys and Benchmarking Studies
 
@@ -168,9 +174,6 @@ This section contains selected promising preprints.
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
 *Meng Qu, Jian Tang, Yoshua Bengio.* (arXiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
-
-1. **"Active Learning for Entity Alignment".**
-*Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (arXiv 2020) \[[paper](https://arxiv.org/abs/2001.08943)\]
 
 1. **"Generalized Multi-Relational Graph Convolution Network".**
 *Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
