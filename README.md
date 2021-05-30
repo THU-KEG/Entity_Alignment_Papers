@@ -153,6 +153,12 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **Dual-AMN**: **"Boosting the Speed of Entity Alignment 10×: Dual Attention Matching Network with Normalized Hard Sample Mining".**
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (WWW 2021) \[[paper](https://arxiv.org/pdf/2103.15452.pdf)\]\[[code](https://github.com/MaoXinn/Dual-AMN)\]
 
+1. **"Unsupervised Knowledge Graph Alignment by Probabilistic Reasoning and Semantic Embedding".**
+*Zhiyuan Qi, Ziheng Zhang, Jiaoyan Chen, Xi Chen, Yuejia Xiang, Ningyu Zhang, Yefeng Zheng.* (IJCAI 2021) \[[paper](https://arxiv.org/abs/2105.05596)\]\[[code](https://github.com/qizhyuan/PRASE-Python)\]
+
+1. **"RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment".**
+*Renbo Zhu, Meng Ma, Ping Wang.* (PAKDD 2021) \[[paper](https://arxiv.org/abs/2103.00791)\]\[[code](https://github.com/zhurboo/RAGA)\]
+
 ## Surveys and Benchmarking Studies
 
 1. **OpenEA**: **"A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs".**
@@ -167,6 +173,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **"An Industry Evaluation of Embedding-based Entity Alignment".**
 *Ziheng Zhang, Jiaoyan Chen, Xi Chen, Hualuo Liu, Yuejia Xiang, Bo Liu, Yefeng Zheng.* (COLING 2020) \[[paper](https://arxiv.org/pdf/2010.11522.pdf)\]\[[code](https://github.com/ZihengZZH/industry-eval-EA)\]
 
+1. **"A comprehensive survey of entity alignment for knowledge graphs".**
+*Kaisheng Zeng, Chengjiang Li, Lei Hou, Juanzi Li, Ling Feng.* (AIopen 2021) \[[paper](https://www.sciencedirect.com/science/article/pii/S2666651021000036)\]\[[code](https://github.com/THU-KEG/EAkit)\]
 
 ## Preprints
 
