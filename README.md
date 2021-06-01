@@ -150,6 +150,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **"Active Learning for Entity Alignment".**
 *Max Berrendorf, Evgeniy Faerman, Volker Tresp.* (ECIR 2021) \[[paper](https://arxiv.org/abs/2001.08943)\]
 
+1. **"Generalized Multi-Relational Graph Convolution Network".**
+*Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu.* (WWW 2021) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
+
 1. **Dual-AMN**: **"Boosting the Speed of Entity Alignment 10×: Dual Attention Matching Network with Normalized Hard Sample Mining".**
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (WWW 2021) \[[paper](https://arxiv.org/pdf/2103.15452.pdf)\]\[[code](https://github.com/MaoXinn/Dual-AMN)\]
 
@@ -158,6 +161,15 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 
 1. **"RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment".**
 *Renbo Zhu, Meng Ma, Ping Wang.* (PAKDD 2021) \[[paper](https://arxiv.org/abs/2103.00791)\]\[[code](https://github.com/zhurboo/RAGA)\]
+
+## Extended Problem Settings  
+This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorgaized)
+
+1. **"Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer".**
+*Xuelu Chen, Muhao Chen, Changjun Fan, Ankith Uppunda, Yizhou Sun, Carlo Zaniolo.* (Findings of EMNLP 2021) \[[paper](https://www.aclweb.org/anthology/2020.findings-emnlp.290.pdf)\]\[[code](https://github.com/stasl0217/KEnS)\]
+
+1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
+*Zequn Sun, Muhao Chen, Wei Hu.* (ACL 2021)
 
 ## Surveys and Benchmarking Studies
 
@@ -174,7 +186,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Ziheng Zhang, Jiaoyan Chen, Xi Chen, Hualuo Liu, Yuejia Xiang, Bo Liu, Yefeng Zheng.* (COLING 2020) \[[paper](https://arxiv.org/pdf/2010.11522.pdf)\]\[[code](https://github.com/ZihengZZH/industry-eval-EA)\]
 
 1. **"A comprehensive survey of entity alignment for knowledge graphs".**
-*Kaisheng Zeng, Chengjiang Li, Lei Hou, Juanzi Li, Ling Feng.* (AIopen 2021) \[[paper](https://www.sciencedirect.com/science/article/pii/S2666651021000036)\]\[[code](https://github.com/THU-KEG/EAkit)\]
+*Kaisheng Zeng, Chengjiang Li, Lei Hou, Juanzi Li, Ling Feng.* AI Open, vol. 2, Elsevier 2021 \[[paper](https://www.sciencedirect.com/science/article/pii/S2666651021000036)\]\[[code](https://github.com/THU-KEG/EAkit)\]
 
 ## Preprints
 
@@ -182,9 +194,6 @@ This section contains selected promising preprints.
 
 1. **KAGAN**: **"Weakly-supervised Knowledge Graph Alignment with Adversarial Learning".**
 *Meng Qu, Jian Tang, Yoshua Bengio.* (arXiv 2019) \[[paper](https://arxiv.org/pdf/1907.03179.pdf)\]\[code\]
-
-1. **"Generalized Multi-Relational Graph Convolution Network".**
-*Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2006.07331.pdf)\]
 
 1. **"A Critical Assessment of State-of-the-Art in Entity Alignment".**
 *Max Berrendorf, Ludwig Wacker, Evgeniy Faerman.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2010.16314.pdf)\]\[[code](https://github.com/mberr/ea-sota-comparison)\]
