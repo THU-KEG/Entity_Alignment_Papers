@@ -2,7 +2,8 @@
 
 This is a repo listing some must-read papers on Entity Alignment published in recent years, mainly contributed by [Chengjiang Li](https://github.com/iamlockelightning) and [Zequn Sun](https://github.com/sunzequn).
 
-
+## Leaderboard
+[https://paperswithcode.com/task/entity-alignment](https://paperswithcode.com/task/entity-alignment)
 
 ## Conference papers (methods):
 
