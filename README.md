@@ -163,6 +163,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **"RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment".**
 *Renbo Zhu, Meng Ma, Ping Wang.* (PAKDD 2021) \[[paper](https://arxiv.org/abs/2103.00791)\]\[[code](https://github.com/zhurboo/RAGA)\]
 
+1. **PSR**: **"Are Negative Samples Necessary in Entity Alignment? An Approach with High Performance, Scalability and Robustness".**
+*Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (CIKM 2021) \[[paper](https://arxiv.org/pdf/2108.05278.pdf)\]\[[code](https://github.com/MaoXinn/PSR)\]
+
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 
@@ -170,7 +173,7 @@ This section includes some new problem settings that are extended from the basic
 *Xuelu Chen, Muhao Chen, Changjun Fan, Ankith Uppunda, Yizhou Sun, Carlo Zaniolo.* (Findings of EMNLP 2020) \[[paper](https://www.aclweb.org/anthology/2020.findings-emnlp.290.pdf)\]\[[code](https://github.com/stasl0217/KEnS)\]
 
 1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
-*Zequn Sun, Muhao Chen, Wei Hu.* (ACL 2021)
+*Zequn Sun, Muhao Chen, Wei Hu.* (ACL 2021) \[[paper](https://sunzequn.github.io/articles/acl2021_dbp2.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
 
 ## Surveys and Benchmarking Studies
 
