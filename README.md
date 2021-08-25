@@ -1,6 +1,6 @@
 # Entity Alignment Papers
 
-This is a repo listing some must-read papers on Entity Alignment published in recent years, mainly contributed by [Chengjiang Li](https://github.com/iamlockelightning) and [Zequn Sun](https://github.com/sunzequn).
+This is a repo listing some must-read papers on Entity Alignment published in recent years, mainly contributed by [Chengjiang Li](https://github.com/iamlockelightning), [Zequn Sun](https://github.com/sunzequn) and [Kaisheng Zeng](https://github.com/alpc43).
 
 ## Leaderboard
 [https://paperswithcode.com/task/entity-alignment](https://paperswithcode.com/task/entity-alignment)
@@ -94,8 +94,11 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **COTSAE**: **"COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment".**
 *Kai Yang, Shaoqin Liu, Junfeng Zhao, Yasha Wang, Bing Xie.* (AAAI 2020) \[[paper](http://www.dit.unitn.it/~pavel/OM/articles/Yang_AAAI20.pdf)\]\[[code](https://github.com/ykpku/COTSA)\]
 
-1. **CEAFF**: **"Collective Embedding-based Entity Alignment via Adaptive Features".**
+1. **CEA**: **"Collective Entity Alignment via Adaptive Features".**
 *Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin.* (ICDE 2020) \[[paper](https://arxiv.org/pdf/1912.08404.pdf)\]\[code\]
+
+1. **CEAFF**: **"Reinforcement Learning–based Collective Entity Alignment with Adaptive Features".**
+*Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin, Paul Groth.* (ACM Transactions on Information Systems) \[[paper](https://dl.acm.org/doi/10.1145/3446428)\]\[code\]
 
 1. **"Deep Graph Matching Consensus".**
 *Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.* (ICLR 2020) \[[paper](https://openreview.net/pdf?id=HyeJf1HKvS)\]\[code\]
