@@ -28,8 +28,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **NTAM**: **"Non-translational Alignment for Multi-relational Networks".**
 *Shengnan Li, Xin Li, Rui Ye, Mingzhong Wang, Haiping Su, Yingzi Ou.* (IJCAI 2018) \[[paper](https://www.ijcai.org/proceedings/2018/0581.pdf)\]\[code\]
 
-1. **"LinkNBed: Multi-Graph Representation Learning with Entity Linkage".""
-*Rakshit Trivedi, Bunyamin Sisman, Jun Ma, Christos Faloutsos, Hongyuan Zha, Xin Luna Dong* (ACL 2018) \[[paper](https://www.aclweb.org/anthology/P18-1024.pdf)\]
+1. **LinkNBed**: **"Multi-Graph Representation Learning with Entity Linkage".**
+*Rakshit Trivedi, Bunyamin Sisman, Jun Ma, Christos Faloutsos, Hongyuan Zha, Xin Luna Dong* (ACL 2018) \[[paper](https://www.aclweb.org/anthology/P18-1024.pdf)\]\[code\]
 
 1. **GCN-Align**: **"Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks".**
 *Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.* (EMNLP 2018) \[[paper](https://www.aclweb.org/anthology/D18-1032)\]\[[code](https://github.com/1049451037/GCN-Align)\]
