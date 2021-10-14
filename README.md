@@ -169,6 +169,12 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **PSR**: **"Are Negative Samples Necessary in Entity Alignment? An Approach with High Performance, Scalability and Robustness".**
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (CIKM 2021) \[[paper](https://arxiv.org/pdf/2108.05278.pdf)\]\[[code](https://github.com/MaoXinn/PSR)\]
 
+1. **SEU**: **"From Alignment to Assignment: Frustratingly Simple Unsupervised Entity Alignment".**
+*Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (EMNLP 2021) \[[paper](https://arxiv.org/pdf/2109.02363.pdf)\]\[[code](https://github.com/MaoXinn/SEU)\]
+
+1. **ActiveEA**: **"ActiveEA: Active Learning for Neural Entity Alignment".**
+*Bing Liu, Harrisen Scells, Guido Zuccon, Wen Hua, Genghong Zhao.* (EMNLP 2021) \[[paper](https://arxiv.org/pdf/2110.06474.pdf)\]\[[code](https://github.com/UQ-Neusoft-Health-Data-Science/ActiveEA)\]
+
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 
