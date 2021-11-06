@@ -169,11 +169,23 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **PSR**: **"Are Negative Samples Necessary in Entity Alignment? An Approach with High Performance, Scalability and Robustness".**
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (CIKM 2021) \[[paper](https://arxiv.org/pdf/2108.05278.pdf)\]\[[code](https://github.com/MaoXinn/PSR)\]
 
+1. **RAC**: **"Reinforced Active Entity Alignment".**
+*Weixin Zeng, Xiang Zhao, Jiuyang Tang, Changjun Fan.* (CIKM 2021) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482472)\]\[[code](https://github.com/DexterZeng/RAC)\]
+
+1. **ERMC**: **"Entity and Relation Matching Consensus for Entity Alignment".**
+*Jinzhu Yang, Ding Wang, Wei Zhou, Wanhui Qian, Xin Wang, Jizhong Han, Songlin Hu.* (CIKM 2021) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482338)\]
+
 1. **SEU**: **"From Alignment to Assignment: Frustratingly Simple Unsupervised Entity Alignment".**
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (EMNLP 2021) \[[paper](https://arxiv.org/pdf/2109.02363.pdf)\]\[[code](https://github.com/MaoXinn/SEU)\]
 
 1. **ActiveEA**: **"ActiveEA: Active Learning for Neural Entity Alignment".**
 *Bing Liu, Harrisen Scells, Guido Zuccon, Wen Hua, Genghong Zhao.* (EMNLP 2021) \[[paper](https://arxiv.org/pdf/2110.06474.pdf)\]\[[code](https://github.com/UQ-Neusoft-Health-Data-Science/ActiveEA)\]
+
+1. **EAA**: **"Adversarial Attack against Cross-lingual Knowledge Graph Alignment".**
+*Zeru Zhang, Zijie Zhang, Yang Zhou, Lingfei Wu, Sixing Wu, Xiaoying Han, Dejing Dou, Tianshi Che, Da Yan.* (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.432.pdf)\]
+
+1. **TEA-GNN**: **"Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs".**
+*Chengjin Xu, Fenglong Su, Jens Lehmann.* (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.709.pdf)\]\[[code](https://github.com/soledad921/TEA-GNN)\]
 
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
