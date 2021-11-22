@@ -139,6 +139,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **"Learning Short-Term Differences and Long-Term Dependencies for Entity Alignment".**
 *Jia Chen, Zhixu Li, Pengpeng Zhao, An Liu, Lei Zhao, Zhigang Chen, Xiangliang Zhang.* (ISWC 2020) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_6)\]
 
+1. **RE-GCN**: **"RE-GCN: Relation Enhanced Graph Convolutional Network for Entity Alignment in Heterogeneous Knowledge Graphs".**
+*Jinzhu Yang, Wei Zhou, Lingwei Wei, Junyu Lin, Jizhong Han, and Songlin Hu.* (DASFAA 2020) \[[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59416-9_26.pdf)\]
+
 1. **"Visual Pivoting for (Unsupervised) Entity Alignment".**
 *Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2009.13603.pdf)\]\[[code](https://github.com/cambridgeltl/eva)\]
 
