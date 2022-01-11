@@ -190,6 +190,15 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **TEA-GNN**: **"Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs".**
 *Chengjin Xu, Fenglong Su, Jens Lehmann.* (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.709.pdf)\]\[[code](https://github.com/soledad921/TEA-GNN)\]
 
+1. **IMEA**: **"Informed Multi-context Entity Alignment".**
+*Kexuan Xin, Zequn Sun, Wen Hua, Wei Hu, Xiaofang Zhou.* (WSDM 2022) \[[paper](https://arxiv.org/pdf/2201.00304.pdf)\]\[[code](https://github.com/JadeXIN/IMEA)\]
+
+1. **LargeEA**: **"LargeEA: Aligning Entities for Large-scale Knowledge Graphs".**
+*Congcong Ge, Xiaoze Liu, Lu Chen, Baihua Zheng, Yunjun Gao.* (VLDB 2022) \[[paper](https://arxiv.org/pdf/2108.05211.pdf)\]\[[code](https://github.com/ZJU-DBL/LargeEA)\]
+
+1. **LIME**: **"On Entity Alignment at Scale".**
+*Weixin Zeng, Xiang Zhao, Xinyi Li, Jiuyang Tang, Wei Wang.* The VLDB Journal, 2022. \[[paper](https://link.springer.com/article/10.1007/s00778-021-00703-3)\]\[[code](https://github.com/DexterZeng/LIME)\]
+
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 
