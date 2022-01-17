@@ -235,6 +235,9 @@ This section contains selected promising preprints.
 1. **"A Critical Assessment of State-of-the-Art in Entity Alignment".**
 *Max Berrendorf, Ludwig Wacker, Evgeniy Faerman.* (arXiv 2020) \[[paper](https://arxiv.org/pdf/2010.16314.pdf)\]\[[code](https://github.com/mberr/ea-sota-comparison)\]
 
+1. **"Training Free Graph Neural Networks For Graph Matching".** 
+*Zhiyuan Liu, Yixin Cao, Fuli Feng, Xiang Wang, Xindi Shang, Jie Tang, Kenji Kawaguchi, Tat-Seng Chua.* (arXiv 2022) \[[paper](https://arxiv.org/pdf/2201.05349.pdf)\]\[[code](https://github.com/acharkq/Training-Free-Graph-Matching)\]
+
 
 ## Tools
 
