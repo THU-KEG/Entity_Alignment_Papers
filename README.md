@@ -199,6 +199,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **LIME**: **"On Entity Alignment at Scale".**
 *Weixin Zeng, Xiang Zhao, Xinyi Li, Jiuyang Tang, Wei Wang.* The VLDB Journal, 2022. \[[paper](https://link.springer.com/article/10.1007/s00778-021-00703-3)\]\[[code](https://github.com/DexterZeng/LIME)\]
 
+1. **SelfKG**: **"A Self-supervised Method for Entity Alignment".**
+*Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang.* (WWW 2022). \[[paper](https://arxiv.org/abs/2106.09395v2)\]\[[code](https://github.com/THUDM/SelfKG)\]
+
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 
