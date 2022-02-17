@@ -241,6 +241,11 @@ This section contains selected promising preprints.
 1. **"Training Free Graph Neural Networks For Graph Matching".** 
 *Zhiyuan Liu, Yixin Cao, Fuli Feng, Xiang Wang, Xindi Shang, Jie Tang, Kenji Kawaguchi, Tat-Seng Chua.* (arXiv 2022) \[[paper](https://arxiv.org/pdf/2201.05349.pdf)\]\[[code](https://github.com/acharkq/Training-Free-Graph-Matching)\]
 
+1. **"Jointly Learning Knowledge Embedding and Neighborhood Consensus with Relational Knowledge Distillation for Entity Alignment".** 
+*Xinhang Li, Yong Zhang, Chunxiao Xing.* (arXiv 2022) \[[paper](https://arxiv.org/pdf/2201.11249.pdf)\]\[[code]()\]
+
+1. **"ICLEA: Interactive Contrastive Learning for Self-supervised Entity Alignment".** 
+*Kaisheng Zeng, Zhenhao Dong, Lei Hou, Yixin Cao, Minghao Hu, Jifan Yu, Xin Lv, Juanzi Li, Ling Feng.* (arXiv 2022) \[[paper](https://arxiv.org/pdf/2201.06225.pdf)\]\[[code](https://github.com/THU-KEG/ICLEA)\]
 
 ## Tools
 
