@@ -202,6 +202,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **SelfKG**: **"A Self-supervised Method for Entity Alignment".**
 *Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang.* (WWW 2022). \[[paper](https://arxiv.org/abs/2106.09395v2)\]\[[code](https://github.com/THUDM/SelfKG)\]
 
+1. **DATTI**: **"An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism".**
+*Xin Mao, Meirong Ma, Hao Yuan, Jianchao Zhu, ZongYu Wang, Rui Xie, Wei Wu, Man Lan.* (ACL 2022). \[[paper](https://aclanthology.org/2022.acl-long.405/)\]\[[code](DATTI)\]
+
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 
