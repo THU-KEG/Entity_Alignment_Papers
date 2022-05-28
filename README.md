@@ -190,6 +190,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **TEA-GNN**: **"Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs".**
 *Chengjin Xu, Fenglong Su, Jens Lehmann.* (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.709.pdf)\]\[[code](https://github.com/soledad921/TEA-GNN)\]
 
+1. **EASY**: **"Make It Easy: An Effective End-to-End Entity Alignment Framework".**
+*Congcong Ge, Xiaoze Liu, Lu Chen, Baihua Zheng, Yunjun Gao.* (SIGIR 2021) \[[paper](https://dl.acm.org/doi/10.1145/3404835.3462870)\]\[[code](https://github.com/ZJU-DAILY/EASY)\]
+
 1. **IMEA**: **"Informed Multi-context Entity Alignment".**
 *Kexuan Xin, Zequn Sun, Wen Hua, Wei Hu, Xiaofang Zhou.* (WSDM 2022) \[[paper](https://arxiv.org/pdf/2201.00304.pdf)\]\[[code](https://github.com/JadeXIN/IMEA)\]
 
@@ -202,8 +205,14 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **SelfKG**: **"A Self-supervised Method for Entity Alignment".**
 *Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang.* (WWW 2022). \[[paper](https://arxiv.org/abs/2106.09395v2)\]\[[code](https://github.com/THUDM/SelfKG)\]
 
+1. **RePS**: **"RePS: Relation, Position and Structure aware Entity Alignment".**
+*Anil Surisetty, Deepak Chaurasiya, Nitish Kumar, Alok Singh, Gaurav Dhama, Aakarash Malhotra, Ankur Arora, Vikrant Dey.* (WWW 2022). \[[paper](https://www2022.thewebconf.org/PaperFiles/159.pdf)\]\[[code](https://github.com/Deepak-Work/RePS)\]
+
 1. **DATTI**: **"An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism".**
 *Xin Mao, Meirong Ma, Hao Yuan, Jianchao Zhu, ZongYu Wang, Rui Xie, Wei Wu, Man Lan.* (ACL 2022). \[[paper](https://aclanthology.org/2022.acl-long.405/)\]\[[code](https://github.com/MaoXinn/DATTI)\]
+
+1. **ClusterEA**: **"ClusterEA: Scalable Entity Alignment with Stochastic Training and Normalized Mini-batch Similarities".**
+*Yunjun Gao, Xiaoze Liu, Junyang Wu, Tianyi Li, Pengfei Wang, Lu Chen.* (KDD 2022) \[[paper](https://arxiv.org/abs/2205.10312)\]\[[code](https://github.com/joker-xii/ClusterEA)\]
 
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
