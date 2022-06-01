@@ -149,7 +149,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Yuchen Yan, Lihui Liu, Yikun Ban, Baoyu Jing, Hanghang Tong.* (AAAI 2021) \[[paper](https://www.aaai.org/AAAI21Papers/AAAI-10116.YanY.pdf)\]
 
 1. **RNM**: **"Relation-Aware Neighborhood Matching Model for Entity Alignment".**
-*Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yingpeng Du.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2012.08128.pdf)\]
+*Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yingpeng Du.* (AAAI 2021) \[[paper](https://arxiv.org/pdf/2012.08128.pdf)\]\[[code](https://github.com/Peter7Yao/RNM)\]
 
 1. **"Cross-lingual Entity Alignment with Incidental Supervision".**
 *Muhao Chen, Weijia Shi, Ben Zhou, Dan Roth.* (EACL 2021) \[[paper](https://arxiv.org/abs/2005.00171)\]\[code\]
