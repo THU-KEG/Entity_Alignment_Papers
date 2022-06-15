@@ -203,7 +203,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Weixin Zeng, Xiang Zhao, Xinyi Li, Jiuyang Tang, Wei Wang.* The VLDB Journal, 2022. \[[paper](https://link.springer.com/article/10.1007/s00778-021-00703-3)\]\[[code](https://github.com/DexterZeng/LIME)\]
 
 1. **SelfKG**: **"A Self-supervised Method for Entity Alignment".**
-*Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang.* (WWW 2022). \[[paper](https://arxiv.org/abs/2106.09395v2)\]\[[code](https://github.com/THUDM/SelfKG)\]
+*Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang.* (WWW 2022). \[[paper](https://arxiv.org/abs/2203.01044)\]\[[code](https://github.com/THUDM/SelfKG)\]
 
 1. **RePS**: **"RePS: Relation, Position and Structure aware Entity Alignment".**
 *Anil Surisetty, Deepak Chaurasiya, Nitish Kumar, Alok Singh, Gaurav Dhama, Aakarash Malhotra, Ankur Arora, Vikrant Dey.* (WWW 2022). \[[paper](https://www2022.thewebconf.org/PaperFiles/159.pdf)\]\[[code](https://github.com/Deepak-Work/RePS)\]
