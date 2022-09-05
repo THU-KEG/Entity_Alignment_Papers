@@ -208,11 +208,44 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **RePS**: **"RePS: Relation, Position and Structure aware Entity Alignment".**
 *Anil Surisetty, Deepak Chaurasiya, Nitish Kumar, Alok Singh, Gaurav Dhama, Aakarash Malhotra, Ankur Arora, Vikrant Dey.* (WWW 2022). \[[paper](https://www2022.thewebconf.org/PaperFiles/159.pdf)\]\[[code](https://github.com/Deepak-Work/RePS)\]
 
+1. **TREA**: **"Time-aware Entity Alignment using Temporal Relational Attention".**
+*Chengjin Xu, Fenglong Su, Bo Xiong, Jens Lehmann.* (WWW 2022). \[[paper](https://dl.acm.org/doi/10.1145/3485447.3511922)\]\[[code]()\]
+
+1. **UPLR**: **"Uncertainty-aware Pseudo Label Refinery for Entity Alignment".**
+*Jia Li, Dandan Song.* (WWW 2022). \[[paper](https://dl.acm.org/doi/10.1145/3485447.3511926)\]\[[code](https://github.com/Jia-Li2/UPLR/)\]
+
 1. **DATTI**: **"An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism".**
 *Xin Mao, Meirong Ma, Hao Yuan, Jianchao Zhu, ZongYu Wang, Rui Xie, Wei Wu, Man Lan.* (ACL 2022). \[[paper](https://aclanthology.org/2022.acl-long.405/)\]\[[code](https://github.com/MaoXinn/DATTI)\]
 
+1. **RPR-RHGT**: **"Entity Alignment with Reliable Path Reasoning and Relation-Aware Heterogeneous Graph Transformer".**
+*Weishan Cai, Wenjun Ma, Jieyu Zhan, Yuncheng Jiang.* (IJCAI 2022). \[[paper](https://www.ijcai.org/proceedings/2022/0268.pdf)\]\[[code](https://github.com/cwswork/RPR-RHGT)\]
+
+1. **SDEA**: **"Semantics Driven Embedding Learning for Effective Entity Alignment".**
+*Ziyue Zhong, Meihui Zhang, Ju Fan, Chenxiao Dou.* (ICDE 2022). \[[paper](https://ieeexplore.ieee.org/document/9835701)\]\[[code](https://github.com/zhongziyue/SDEA)\]
+
 1. **ClusterEA**: **"ClusterEA: Scalable Entity Alignment with Stochastic Training and Normalized Mini-batch Similarities".**
 *Yunjun Gao, Xiaoze Liu, Junyang Wu, Tianyi Li, Pengfei Wang, Lu Chen.* (KDD 2022) \[[paper](https://arxiv.org/abs/2205.10312)\]\[[code](https://github.com/joker-xii/ClusterEA)\]
+
+1. **MSNEA**: **"Multi-modal Siamese Network for Entity Alignment".**
+*Liyi Chen, Zhi Li, Tong Xu, Han Wu, Zhefeng Wang, Nicholas Jing Yuan, Enhong Chen.* (KDD 2022) \[[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539244)\]\[[code](https://github.com/liyichen-cly/MSNEA)\]
+
+1. **NeoEA**: **"Understanding and Improving Knowledge Graph Embedding for Entity Alignment".**
+*Lingbing Guo, Mingyang Chen, Zequn Sun, Wei Hu, Qiang Zhang, Huajun Chen.* (ICML 2022) \[[paper](https://proceedings.mlr.press/v162/guo22i/guo22i.pdf)\]\[[code](https://github.com/guolingbing/NeoEA)\]
+
+1. **ContEA**: **"Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs".**
+*Yuxin Wang, Yuanning Cui, Wenqiang Liu, Zequn Sun, Yiqiao Jiang, Kexin Han, Wei Hu.* (ISWC 2022) \[[paper](https://arxiv.org/abs/2207.11436)\]\[[code](https://github.com/nju-websoft/ContEA)\]
+
+1. **LargeGNN**: **"Large-scale Entity Alignment via Knowledge Graph Merging, Partitioning and Embedding".**
+*Kexuan Xin, Zequn Sun, Wen Hua, Wei Hu, Jianfeng Qu, Xiaofang Zhou.* (CIKM 2022) \[[paper](https://arxiv.org/abs/2208.11125)\]\[[code](https://github.com/JadeXIN/LargeGNN)\]
+
+1. **DivEA**: **"High-quality Task Division for Large-scale Entity Alignment".**
+*Bing Liu, Wen Hua, Guido Zuccon, Genghong Zhao, Xia Zhang.* (CIKM 2022) \[[paper](https://arxiv.org/pdf/2208.10366.pdf)\]\[[code](https://github.com/uqbingliu/DivEA)\]
+
+1. **RoadEA**: **"Revisiting Embedding-based Entity Alignment: A Robust and Adaptive Method".**
+*Zequn Sun, Wei Hu, Chengming Wang, Yuxin Wang, Yuzhong Qu.* (TKDE 2022) \[[paper](https://ieeexplore.ieee.org/document/9865204/)\]\[[code](https://github.com/nju-websoft/RoadEA)\]
+
+1. **MCLEA**: **"Multi-modal Contrastive Representation Learning for Entity Alignment".**
+*Zhenxi Lin, Ziheng Zhang, Meng Wang, Yinghui Shi, Xian Wu, Yefeng Zheng.* (COLING 2022) \[[paper](https://arxiv.org/pdf/2209.00891.pdf)\]\[[code]()\]
 
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
