@@ -244,7 +244,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **DivEA**: **"High-quality Task Division for Large-scale Entity Alignment".**
 *Bing Liu, Wen Hua, Guido Zuccon, Genghong Zhao, Xia Zhang.* (CIKM 2022) \[[paper](https://arxiv.org/pdf/2208.10366.pdf)\]\[[code](https://github.com/uqbingliu/DivEA)\]
 
-1. **"ICLEA: Interactive Contrastive Learning for Self-supervised Entity Alignment".** 
+1. **ICLEA**: **"Interactive Contrastive Learning for Self-supervised Entity Alignment".** 
 *Kaisheng Zeng, Zhenhao Dong, Lei Hou, Yixin Cao, Minghao Hu, Jifan Yu, Xin Lv, Juanzi Li, Ling Feng.* (CIKM 2022) \[[paper](https://arxiv.org/pdf/2201.06225.pdf)\]\[[code](https://github.com/THU-KEG/ICLEA)\]
 
 1. **RoadEA**: **"Revisiting Embedding-based Entity Alignment: A Robust and Adaptive Method".**
