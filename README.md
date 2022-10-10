@@ -220,6 +220,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **RPR-RHGT**: **"Entity Alignment with Reliable Path Reasoning and Relation-Aware Heterogeneous Graph Transformer".**
 *Weishan Cai, Wenjun Ma, Jieyu Zhan, Yuncheng Jiang.* (IJCAI 2022). \[[paper](https://www.ijcai.org/proceedings/2022/0268.pdf)\]\[[code](https://github.com/cwswork/RPR-RHGT)\]
 
+1. **CycTEA**: **"Ensemble Semi-supervised Entity Alignment via Cycle-teaching".**
+*Kexuan Xin, Zequn Sun, Wen Hua, Bing Liu, Wei Hu, Jianfeng Qu, Xiaofang Zhou.* (AAAI 2022). \[[paper](https://www.aaai.org/AAAI22Papers/AAAI-5065.XinK.pdf)\]\[[code](https://github.com/JadeXIN/CycTEA)\]
+
 1. **SDEA**: **"Semantics Driven Embedding Learning for Effective Entity Alignment".**
 *Ziyue Zhong, Meihui Zhang, Ju Fan, Chenxiao Dou.* (ICDE 2022). \[[paper](https://ieeexplore.ieee.org/document/9835701)\]\[[code](https://github.com/zhongziyue/SDEA)\]
 
@@ -240,6 +243,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 
 1. **DivEA**: **"High-quality Task Division for Large-scale Entity Alignment".**
 *Bing Liu, Wen Hua, Guido Zuccon, Genghong Zhao, Xia Zhang.* (CIKM 2022) \[[paper](https://arxiv.org/pdf/2208.10366.pdf)\]\[[code](https://github.com/uqbingliu/DivEA)\]
+
+1. **"ICLEA: Interactive Contrastive Learning for Self-supervised Entity Alignment".** 
+*Kaisheng Zeng, Zhenhao Dong, Lei Hou, Yixin Cao, Minghao Hu, Jifan Yu, Xin Lv, Juanzi Li, Ling Feng.* (CIKM 2022) \[[paper](https://arxiv.org/pdf/2201.06225.pdf)\]\[[code](https://github.com/THU-KEG/ICLEA)\]
 
 1. **RoadEA**: **"Revisiting Embedding-based Entity Alignment: A Robust and Adaptive Method".**
 *Zequn Sun, Wei Hu, Chengming Wang, Yuxin Wang, Yuzhong Qu.* (TKDE 2022) \[[paper](https://ieeexplore.ieee.org/document/9865204/)\]\[[code](https://github.com/nju-websoft/RoadEA)\]
@@ -289,8 +295,6 @@ This section contains selected promising preprints.
 1. **"Jointly Learning Knowledge Embedding and Neighborhood Consensus with Relational Knowledge Distillation for Entity Alignment".** 
 *Xinhang Li, Yong Zhang, Chunxiao Xing.* (arXiv 2022) \[[paper](https://arxiv.org/pdf/2201.11249.pdf)\]\[[code]()\]
 
-1. **"ICLEA: Interactive Contrastive Learning for Self-supervised Entity Alignment".** 
-*Kaisheng Zeng, Zhenhao Dong, Lei Hou, Yixin Cao, Minghao Hu, Jifan Yu, Xin Lv, Juanzi Li, Ling Feng.* (arXiv 2022) \[[paper](https://arxiv.org/pdf/2201.06225.pdf)\]\[[code](https://github.com/THU-KEG/ICLEA)\]
 
 ## Tools
 
