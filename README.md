@@ -254,7 +254,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Zhenxi Lin, Ziheng Zhang, Meng Wang, Yinghui Shi, Xian Wu, Yefeng Zheng.* (COLING 2022) \[[paper](https://arxiv.org/pdf/2209.00891.pdf)\]\[[code]()\]
 
 1. **LightEA**: **"LightEA: A Scalable, Robust, and Interpretable Entity Alignment Framework via Three-view Label Propagation".**
-*Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (EMNLP 2022) \[[paper](https://arxiv.org/pdf/2210.10436.pdf)\]\[[code]()\]
+*Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (EMNLP 2022) \[[paper](https://arxiv.org/pdf/2210.10436.pdf)\]\[[code](https://github.com/MaoXinn/LightEA/)\]
 
 ## Extended Problem Settings  
 This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
