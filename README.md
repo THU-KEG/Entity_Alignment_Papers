@@ -98,7 +98,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin.* (ICDE 2020) \[[paper](https://arxiv.org/pdf/1912.08404.pdf)\]\[code\]
 
 1. **CEAFF**: **"Reinforcement Learning–based Collective Entity Alignment with Adaptive Features".**
-*Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin, Paul Groth.* (ACM Transactions on Information Systems) \[[paper](https://dl.acm.org/doi/10.1145/3446428)\]\[code\]
+*Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin, Paul Groth.* (ACM Transactions on Information Systems) \[[paper](https://dl.acm.org/doi/10.1145/3446428)\]\[[code](https://github.com/DexterZeng/CEAFF)\]
 
 1. **"Deep Graph Matching Consensus".**
 *Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.* (ICLR 2020) \[[paper](https://openreview.net/pdf?id=HyeJf1HKvS)\]\[code\]
