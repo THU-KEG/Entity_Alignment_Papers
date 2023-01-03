@@ -256,14 +256,29 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **LightEA**: **"LightEA: A Scalable, Robust, and Interpretable Entity Alignment Framework via Three-view Label Propagation".**
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (EMNLP 2022) \[[paper](https://arxiv.org/pdf/2210.10436.pdf)\]\[[code](https://github.com/MaoXinn/LightEA/)\]
 
-## Extended Problem Settings  
-This section includes some new problem settings that are extended from the basic EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
+
+## Dangling-Aware Entity Alignment
+This section covers the new problem setting of entity alignment with dangling cases. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
+1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
+*Zequn Sun, Muhao Chen, Wei Hu.* (ACL 2021) \[[paper](https://sunzequn.github.io/articles/acl2021_dbp2.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
+
+1. **""Dangling-Aware Entity Alignment with Mixed High-Order Proximities.**
+*Juncheng Liu, Zequn Sun, Bryan Hooi, Yiwei Wang, Dayiheng Liu, Baosong Yang, Xiaokui Xiao, Muhao Chen.* (NAACL-findings 2022) \[[paper](https://aclanthology.org/2022.findings-naacl.88.pdf)\]  
+
+## Cross-lingual Knowledge Graph Completion  
+This section includes the cross-lingual KGC that is extended from the original EA problem. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 
 1. **"Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer".**
 *Xuelu Chen, Muhao Chen, Changjun Fan, Ankith Uppunda, Yizhou Sun, Carlo Zaniolo.* (Findings of EMNLP 2020) \[[paper](https://www.aclweb.org/anthology/2020.findings-emnlp.290.pdf)\]\[[code](https://github.com/stasl0217/KEnS)\]
 
-1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
-*Zequn Sun, Muhao Chen, Wei Hu.* (ACL 2021) \[[paper](https://sunzequn.github.io/articles/acl2021_dbp2.pdf)\]\[[code](https://github.com/nju-websoft/OpenEA)\]
+1. **"Prix-LM: Pretraining for Multilingual Knowledge Base Construction".**
+*Wenxuan Zhou, Fangyu Liu, Ivan Vulić, Nigel Collier, Muhao Chen.* (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.371.pdf)\]\[[code](https://github.com/luka-group/prix-lm)\]
+
+1. **"Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment".**
+*Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, and Wei Wang.* (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.36.pdf)\]
+
+1. **"Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment".**
+*Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, and Wei Wang.* (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.36.pdf)\]
 
 ## Surveys and Benchmarking Studies
 
