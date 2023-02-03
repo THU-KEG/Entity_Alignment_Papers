@@ -259,6 +259,11 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **EMEA**: **"Guiding Neural Entity Alignment with Compatibility".**
 *Bing Liu, Harrisen Scells, Wen Hua, Guido Zuccon, Genghong Zhao, Xia Zhang.* (EMNLP 2022) \[[paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.32.pdf)\]\[[code](https://github.com/uqbingliu/EMEA)\]
 
+
+1. **DualMatch**: **"Unsupervised Entity Alignment for Temporal Knowledge Graphs".**
+*Xiaoze Liu, Junyang Wu, Tianyi Li, Lu Chen, Yunjun Gao.* (WWW 2023) \[[paper](https://arxiv.org/abs/2302.00796)\]\[[code](https://github.com/ZJU-DAILY/DualMatch)\]
+
+
 ## Dangling-Aware Entity Alignment
 This section covers the new problem setting of entity alignment with dangling cases. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
@@ -275,9 +280,6 @@ This section includes the cross-lingual KGC that is extended from the original E
 
 1. **"Prix-LM: Pretraining for Multilingual Knowledge Base Construction".**
 *Wenxuan Zhou, Fangyu Liu, Ivan Vulić, Nigel Collier, Muhao Chen.* (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.371.pdf)\]\[[code](https://github.com/luka-group/prix-lm)\]
-
-1. **"Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment".**
-*Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, and Wei Wang.* (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.36.pdf)\]
 
 1. **"Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment".**
 *Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, and Wei Wang.* (ACL 2022) \[[paper](https://aclanthology.org/2022.acl-long.36.pdf)\]
