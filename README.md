@@ -263,6 +263,8 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **DualMatch**: **"Unsupervised Entity Alignment for Temporal Knowledge Graphs".**
 *Xiaoze Liu, Junyang Wu, Tianyi Li, Lu Chen, Yunjun Gao.* (WWW 2023) \[[paper](https://arxiv.org/abs/2302.00796)\]\[[code](https://github.com/ZJU-DAILY/DualMatch)\]
 
+1. **STEA**: **"Dependency-aware Self-training for Entity Alignment".**
+*Bing Liu, Tiancheng Lan, Wen Hua, Guido Zuccon.* (WSDM 2023) \[[paper](https://arxiv.org/abs/2211.16101)\]\[[code](https://github.com/uqbingliu/STEA)\]
 
 ## Dangling-Aware Entity Alignment
 This section covers the new problem setting of entity alignment with dangling cases. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
