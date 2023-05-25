@@ -266,6 +266,12 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **STEA**: **"Dependency-aware Self-training for Entity Alignment".**
 *Bing Liu, Tiancheng Lan, Wen Hua, Guido Zuccon.* (WSDM 2023) \[[paper](https://arxiv.org/abs/2211.16101)\]\[[code](https://github.com/uqbingliu/STEA)\]
 
+1. **TEA**: **"From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment".**
+*Yu Zhao, Yike Wu, Xiangrui Cai, Ying Zhang, Haiwei Zhang, Xiaojie Yuan.* (ACL-findings 2023) \[[paper](https://arxiv.org/abs/2305.11501)\]\[[code](https://github.com/OreOZhao/TEA)\]
+
+1. **FGWEA**: **"A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment".**
+*Jianheng Tang, Kangfei Zhao, Jia Li.* (ACL-findings 2023) \[[paper](https://arxiv.org/abs/2305.06574)\]\[[code](https://github.com/squareRoot3/FusedGW-Entity-Alignment)\]
+
 ## Dangling-Aware Entity Alignment
 This section covers the new problem setting of entity alignment with dangling cases. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
