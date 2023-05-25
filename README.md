@@ -169,6 +169,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **"RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment".**
 *Renbo Zhu, Meng Ma, Ping Wang.* (PAKDD 2021) \[[paper](https://arxiv.org/abs/2103.00791)\]\[[code](https://github.com/zhurboo/RAGA)\]
 
+1. **C4EA**: **"Encoding the meaning triangle (object, entity, and concept) as the semantic foundation for entity alignment".**
+*Kaisheng Zeng, Chengjiang Li, Yan Qi, Xin Lv, Lei Hou, Guozheng Peng, Juanzi Li, Ling Feng.* (PAKDD 2021) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-90888-1_19)\]\[[code]()\]
+
 1. **PSR**: **"Are Negative Samples Necessary in Entity Alignment? An Approach with High Performance, Scalability and Robustness".**
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (CIKM 2021) \[[paper](https://arxiv.org/pdf/2108.05278.pdf)\]\[[code](https://github.com/MaoXinn/PSR)\]
 
@@ -265,6 +268,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 
 1. **STEA**: **"Dependency-aware Self-training for Entity Alignment".**
 *Bing Liu, Tiancheng Lan, Wen Hua, Guido Zuccon.* (WSDM 2023) \[[paper](https://arxiv.org/abs/2211.16101)\]\[[code](https://github.com/uqbingliu/STEA)\]
+
+1. **"Weakly Supervised Entity Alignment with Positional Inspiration".**
+*Bing Liu, Tiancheng Lan, Wen Hua, Guido Zuccon.* (WSDM 2023) \[[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570394)\]\[[code](https://github.com/OceanTangWei/PEEA)\]
 
 1. **TEA**: **"From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment".**
 *Yu Zhao, Yike Wu, Xiangrui Cai, Ying Zhang, Haiwei Zhang, Xiaojie Yuan.* (ACL-findings 2023) \[[paper](https://arxiv.org/abs/2305.11501)\]\[[code](https://github.com/OreOZhao/TEA)\]
