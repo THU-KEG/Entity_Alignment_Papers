@@ -170,7 +170,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Renbo Zhu, Meng Ma, Ping Wang.* (PAKDD 2021) \[[paper](https://arxiv.org/abs/2103.00791)\]\[[code](https://github.com/zhurboo/RAGA)\]
 
 1. **C4EA**: **"Encoding the meaning triangle (object, entity, and concept) as the semantic foundation for entity alignment".**
-*Kaisheng Zeng, Chengjiang Li, Yan Qi, Xin Lv, Lei Hou, Guozheng Peng, Juanzi Li, Ling Feng.* (PAKDD 2021) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-90888-1_19)\]\[[code]()\]
+*Kaisheng Zeng, Chengjiang Li, Yan Qi, Xin Lv, Lei Hou, Guozheng Peng, Juanzi Li, Ling Feng.* (WISE 2021) \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-90888-1_19)\]\[[code]()\]
 
 1. **PSR**: **"Are Negative Samples Necessary in Entity Alignment? An Approach with High Performance, Scalability and Robustness".**
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (CIKM 2021) \[[paper](https://arxiv.org/pdf/2108.05278.pdf)\]\[[code](https://github.com/MaoXinn/PSR)\]
