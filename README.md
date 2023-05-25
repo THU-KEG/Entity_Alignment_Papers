@@ -267,10 +267,10 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Xiaoze Liu, Junyang Wu, Tianyi Li, Lu Chen, Yunjun Gao.* (WWW 2023) \[[paper](https://arxiv.org/abs/2302.00796)\]\[[code](https://github.com/ZJU-DAILY/DualMatch)\]
 
 1. **STEA**: **"Dependency-aware Self-training for Entity Alignment".**
-*Wei Tang,Fenglong Su,Haifeng Sun,Qi Qi,Jingyu Wang,Shimin Tao,Hao Yang.* (WSDM 2023) \[[paper](https://arxiv.org/abs/2211.16101)\]\[[code](https://github.com/uqbingliu/STEA)\]
+*Bing Liu, Tiancheng Lan, Wen Hua, Guido Zuccon.* (WSDM 2023) \[[paper](https://arxiv.org/abs/2211.16101)\]\[[code](https://github.com/uqbingliu/STEA)\]
 
 1. **"Weakly Supervised Entity Alignment with Positional Inspiration".**
-*Bing Liu, Tiancheng Lan, Wen Hua, Guido Zuccon.* (WSDM 2023) \[[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570394)\]\[[code](https://github.com/OceanTangWei/PEEA)\]
+*Wei Tang,Fenglong Su,Haifeng Sun,Qi Qi,Jingyu Wang,Shimin Tao,Hao Yang.* (WSDM 2023) \[[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570394)\]\[[code](https://github.com/OceanTangWei/PEEA)\]
 
 1. **TEA**: **"From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment".**
 *Yu Zhao, Yike Wu, Xiangrui Cai, Ying Zhang, Haiwei Zhang, Xiaojie Yuan.* (ACL-findings 2023) \[[paper](https://arxiv.org/abs/2305.11501)\]\[[code](https://github.com/OreOZhao/TEA)\]
