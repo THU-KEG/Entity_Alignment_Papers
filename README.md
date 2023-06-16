@@ -260,7 +260,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan.* (EMNLP 2022) \[[paper](https://arxiv.org/pdf/2210.10436.pdf)\]\[[code](https://github.com/MaoXinn/LightEA/)\]
 
 1. **EMEA**: **"Guiding Neural Entity Alignment with Compatibility".**
-*Bing Liu, Harrisen Scells, Wen Hua, Guido Zuccon, Genghong Zhao, Xia Zhang.* (EMNLP 2022) \[[paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.32.pdf)\]\[[code](https://github.com/uqbingliu/EMEA)\]
+*Bing Liu, Harrisen Scells, Wen Hua, Guido Zuccon, Genghong Zhao, Xia Zhang.* (EMNLP 2022) \[[paper](https://aclanthology.org/2022.emnlp-main.32.pdf)\]\[[code](https://github.com/uqbingliu/EMEA)\]
 
 
 1. **DualMatch**: **"Unsupervised Entity Alignment for Temporal Knowledge Graphs".**
