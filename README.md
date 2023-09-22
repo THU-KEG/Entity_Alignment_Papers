@@ -278,6 +278,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **FGWEA**: **"A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment".**
 *Jianheng Tang, Kangfei Zhao, Jia Li.* (ACL-findings 2023) \[[paper](https://arxiv.org/abs/2305.06574)\]\[[code](https://github.com/squareRoot3/FusedGW-Entity-Alignment)\]
 
+1. **i-Align**: **"an interpretable knowledge graph alignment model".**
+*Bayu Distiawan Trisedya, Flora D. Salim, Jeffrey Chan, Damiano Spina, Falk Scholer & Mark Sanderson.* (Data Mining and Knowledge Discovery 2023) \[[paper](https://link.springer.com/article/10.1007/s10618-023-00963-3#:~:text=The%20proposed%20i%2DAlign%20is,and%20relationship%20triples%20as%20follows.)\]\[[code](https://bitbucket.org/bayudt/i-align)\]
+
 ## Dangling-Aware Entity Alignment
 This section covers the new problem setting of entity alignment with dangling cases. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
