@@ -278,6 +278,12 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **FGWEA**: **"A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment".**
 *Jianheng Tang, Kangfei Zhao, Jia Li.* (ACL-findings 2023) \[[paper](https://arxiv.org/abs/2305.06574)\]\[[code](https://github.com/squareRoot3/FusedGW-Entity-Alignment)\]
 
+1. **"MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid".**
+*Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, Yichi Zhang, Yuxia Geng, Jeff Z. Pan, Wenting Song, Huajun Chen.* (ACM MM 2023) \[[paper](https://arxiv.org/abs/2212.14454)\]\[[code](https://github.com/zjukg/MEAformer)\]
+
+1. **UMAEA**: **"Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment".**
+*Zhuo Chen, Lingbing Guo, Yin Fang, Yichi Zhang, Jiaoyan Chen, Jeff Z. Pan, Yangning Li, Huajun Chen, Wen Zhang.* (ISWC 2023) \[[paper](https://arxiv.org/abs/2307.16210)\]\[[code](https://github.com/zjukg/UMAEA)\]
+
 ## Dangling-Aware Entity Alignment
 This section covers the new problem setting of entity alignment with dangling cases. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
@@ -315,6 +321,9 @@ This section includes the cross-lingual KGC that is extended from the original E
 1. **"A comprehensive survey of entity alignment for knowledge graphs".**
 *Kaisheng Zeng, Chengjiang Li, Lei Hou, Juanzi Li, Ling Feng.* AI Open, vol. 2, Elsevier 2021 \[[paper](https://www.sciencedirect.com/science/article/pii/S2666651021000036)\]\[[code](https://github.com/THU-KEG/EAkit)\]
 
+1. **"Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment".**
+*Zhuo Chen, Lingbing Guo, Yin Fang, Yichi Zhang, Jiaoyan Chen, Jeff Z. Pan, Yangning Li, Huajun Chen, Wen Zhang.* (ISWC 2023) \[[paper](https://arxiv.org/abs/2307.16210)\]\[[code](https://github.com/zjukg/UMAEA)\]
+
 ## Preprints
 
 This section contains selected promising preprints.
@@ -331,6 +340,11 @@ This section contains selected promising preprints.
 1. **"Jointly Learning Knowledge Embedding and Neighborhood Consensus with Relational Knowledge Distillation for Entity Alignment".** 
 *Xinhang Li, Yong Zhang, Chunxiao Xing.* (arXiv 2022) \[[paper](https://arxiv.org/pdf/2201.11249.pdf)\]\[[code]()\]
 
+1. **"Revisit and Outstrip Entity Alignment: A Perspective of Generative Models".** 
+*Lingbing Guo, Zhuo Chen, Jiaoyan Chen, Huajun Chen.* (arXiv 2023) \[[paper](https://arxiv.org/abs/2305.14651)\]\[[code]()\]
+
+1. **"Universal Multi-modal Entity Alignment via Iteratively Fusing Modality Similarity Paths".** 
+*Bolin Zhu, Xiaoze Liu, Xin Mao, Zhuo Chen, Lingbing Guo, Tao Gui, Qi Zhang.* (arXiv 2023) \[[paper](https://arxiv.org/abs/2310.05364)\]\[[code]()\]
 
 ## Tools
 
